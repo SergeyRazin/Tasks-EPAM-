@@ -1,589 +1,0 @@
-üR‡ü
-­R¨
-HRD· ãó…ÆÈèMyORMx.Program.Main(String[])(8ÿÿÿÿÿÿÿÿÿ@Hh¯Úå¡°×ÈèOc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\program.cs’æÿÌÑ1
-äRß
-(R$MyORM.Person.get_Name()8ÿÿÿÿÿÿÿÿÿ
-.R*MyORM.Person.set_Name(String)8ÿÿÿÿÿÿÿÿÿ
-'R#MyORM.Person.get_Age()8ÿÿÿÿÿÿÿÿÿ
-,R(MyORM.Person.set_Age(Int32)8ÿÿÿÿÿÿÿÿÿ
-G	RCâ‡ÏÀ‚öÇèMyORMx.Person.get_Name()(8ÿÿÿÿÿÿÿÿÿ@HPXhÁí÷¯Èè
-M
-RIâ‡ÏÀ‚öÇèMyORMx.Person.set_Name(String)(8ÿÿÿÿÿÿÿÿÿ@HPXhÁí÷¯Èè
-FRBÚ›‹öÂÈèMyORMx.Person.get_Age()(8ÿÿÿÿÿÿÿÿÿ@HPXhïÀ“ò’ÃÈè
-KRGÚ›‹öÂÈèMyORMx.Person.set_Age(Int32)(8ÿÿÿÿÿÿÿÿÿ@HPXhïÀ“ò’ÃÈè
-2R.MyORMx.Person.CompareTo(Object)(8ÿÿÿÿÿÿÿÿÿ
--R)MyORMx.Person.get_LastName()8ÿÿÿÿÿÿÿÿÿ
-3R/"MyORMx.Person.set_LastName(String)8ÿÿÿÿÿÿÿÿÿZc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\dataclasses\person.cs¬‘–ˆÁˆÑ1
-˜R“
-'R#MyORMx.Storage..ctor()8ÿÿÿÿÿÿÿÿÿ[c:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\dataclasses\storage.csú× °¸Ï1
-é2Rä2
-IRE8MyORMx.AccessorsClasses.AccessorMemory.AddPerson(Person)8ÿÿÿÿÿÿÿÿÿ
-LRH;MyORMx.AccessorsClasses.AccessorMemory.RemovePerson(String)8ÿÿÿÿÿÿÿÿÿ
-RRNAMyORMx.AccessorsClasses.AccessorMemory.InsertPerson(Int32,Person)8ÿÿÿÿÿÿÿÿÿ
-AR=0MyORMx.AccessorsClasses.AccessorMemory.ShowAll()8ÿÿÿÿÿÿÿÿÿ
-?R;.MyORMx.AccessorsClasses.AccessorMemory.Clear()8ÿÿÿÿÿÿÿÿÿ
-¦R¡ğ·üß¼ÛÇè'MyORMx.AccessorMemory.AddPerson(Person)2”	"'UnitTests.ClientTEST.GetAllPersonTEST()"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ClientTEST.GetPersonByIndexTEST()" UnitTests.ClientTEST.CountTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2”"'UnitTests.ClientTEST.GetAllPersonTEST()"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ClientTEST.GetPersonByIndexTEST()" UnitTests.ClientTEST.CountTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2”"'UnitTests.ClientTEST.GetAllPersonTEST()"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ClientTEST.GetPersonByIndexTEST()" UnitTests.ClientTEST.CountTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2”	"'UnitTests.ClientTEST.GetAllPersonTEST()"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ClientTEST.GetPersonByIndexTEST()" UnitTests.ClientTEST.CountTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()8d@HPhÄéãƒÀÛÇè
-“
-R
-í®¤ÅÅÛÇè*MyORMx.AccessorMemory.RemovePerson(String)2\	"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\/"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\	"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()8d@HPh¿¦»¡ÉÛÇè
-»R¶°ä«ƒ»ÜÇè0MyORMx.AccessorMemory.InsertPerson(Int32,Person)2X"	""#UnitTests.ClientTEST.InsertPerson()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()2X##"#UnitTests.ClientTEST.InsertPerson()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()2X$$"#UnitTests.ClientTEST.InsertPerson()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()2X%	%"#UnitTests.ClientTEST.InsertPerson()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()8d@HPh¿ãÑ¡»ÜÇè
-„Rÿ¡æ€û®İÇèMyORMx.AccessorMemory.Clear()2Î-	-" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2Î.." UnitTests.ClientTEST.ClearTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2Î//" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2Î0	0" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()8d@HPhÛæÀ¯İÇè
-³R®‘øÿ¬ºÛÇèMyORMx.AccessorMemory.Count()2Î8	8" UnitTests.ClientTEST.CountTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2Î99" UnitTests.ClientTEST.CountTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2Î:	:" UnitTests.ClientTEST.CountTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()8d@HPhÁûÜËºÛÇè
-.R*MyORMx.AccessorMemory..ctor()8ÿÿÿÿÿÿÿÿÿ
-öRñöšİÇ²ÜÇè-MyORMx.AccessorMemory.GetPersonByIndex(Int32)2`3	3"+UnitTests.ClientTEST.GetPersonByIndexTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()2`44"+UnitTests.ClientTEST.GetPersonByIndexTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()2`5	5"+UnitTests.ClientTEST.GetPersonByIndexTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()8d@HPh¶£Ï´ÜÇè
-—R’$MyORMx.AccessorMemory.GetAllPerson()2Ÿ(	("'UnitTests.ClientTEST.GetAllPersonTEST()"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()2Ÿ))"'UnitTests.ClientTEST.GetAllPersonTEST()"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()2Ÿ*	*"'UnitTests.ClientTEST.GetAllPersonTEST()"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()8dHPgc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\accessorsclasses\accessormemory.csšá¢Œ²½Ï1
-o Rk\c:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\interfaces\iaccessor.csÔÖÆËå¿Ï1
-u!Rqbc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\properties\assemblyinfo.cs‚—Ï”ã¼Ï1
-""R™"
-@#R<şë“È£ŞÇèMyORMx.Client..ctor()8ÿÿÿÿÿÿÿÿÿ@HPhÜàæàªŞÇè
-ô$Rï½î˜Ÿ®ŞÇè)MyORMx.Client.AddPerson(Person,IAccessor)2ç	"'UnitTests.ClientTEST.GetAllPersonTEST()"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ClientTEST.GetPersonByIndexTEST()" UnitTests.ClientTEST.CountTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()" UnitTests.ChiefClassTEST.Clear()2ç"'UnitTests.ClientTEST.GetAllPersonTEST()"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ClientTEST.GetPersonByIndexTEST()" UnitTests.ClientTEST.CountTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()" UnitTests.ChiefClassTEST.Clear()2ç"'UnitTests.ClientTEST.GetAllPersonTEST()"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ClientTEST.GetPersonByIndexTEST()" UnitTests.ClientTEST.CountTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()" UnitTests.ChiefClassTEST.Clear()2ç	"'UnitTests.ClientTEST.GetAllPersonTEST()"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ClientTEST.GetPersonByIndexTEST()" UnitTests.ClientTEST.CountTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()" UnitTests.ChiefClassTEST.Clear()8d@HPh¥¦ÌâŞÇè
-Ç%RÂµÎÿÂÁßÇè,MyORMx.Client.RemovePerson(String,IAccessor)2\	"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()2\	"'UnitTests.ClientTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()8d@HPhİŒôìÄßÇè
-°&R«³€ŸÁÂßÇè%MyORMx.Client.GetAllPerson(IAccessor)2v	"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()2v"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()2v	"'UnitTests.ClientTEST.RemovePersonTEST()"#UnitTests.ClientTEST.InsertPerson()" UnitTests.ClientTEST.ClearTEST()8d@HPhİŒôìÄßÇè
-¿'Rº–Î˜ÜßÇè2MyORMx.Client.InsertPerson(Int32,Person,IAccessor)(2X	"#UnitTests.ClientTEST.InsertPerson()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()2X"#UnitTests.ClientTEST.InsertPerson()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()2X  "#UnitTests.ClientTEST.InsertPerson()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()2X!	!"#UnitTests.ClientTEST.InsertPerson()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()8d@HPh¢û·ôæßÇè
-‡(R‚”—î¼õßÇèMyORMx.Client.Clear(IAccessor)(2Î$	$" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2Î%%" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2Î&&" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2Î'	'" UnitTests.ClientTEST.ClearTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()8d@HPh¥ˆößõßÇè
-ó)Rî­¤¶óšàÇè/MyORMx.Client.GetPersonByIndex(Int32,IAccessor)(23*	*"+UnitTests.ClientTEST.GetPersonByIndexTEST()23++"+UnitTests.ClientTEST.GetPersonByIndexTEST()23,	,"+UnitTests.ClientTEST.GetPersonByIndexTEST()8d@HPh‰¾Æˆ¯àÇè
-Á*R¼•¹Ö•àÇèMyORMx.Client.Count(IAccessor)(2(/	/" UnitTests.ClientTEST.CountTEST()2(00" UnitTests.ClientTEST.CountTEST()2(1	1" UnitTests.ClientTEST.CountTEST()8d@HPh–‹šü•àÇèNc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\client.csˆ÷ŸÆ÷ÂÏ1
-Ó+RÎ
-§,R¢ü¹­á×ßÇè,UnitTests.ClientTEST.ClientConstructorTEST()(24	",UnitTests.ClientTEST.ClientConstructorTEST()24",UnitTests.ClientTEST.ClientConstructorTEST()24",UnitTests.ClientTEST.ClientConstructorTEST()24	",UnitTests.ClientTEST.ClientConstructorTEST()8d@PhğêÏ‘ØßÇè
---R)UnitTests.ClientTEST..ctor()8ÿÿÿÿÿÿÿÿÿ
-Ğ.RËù¹½ĞßÇè'UnitTests.ClientTEST.GetAllPersonTEST()2/	"'UnitTests.ClientTEST.GetAllPersonTEST()2/"'UnitTests.ClientTEST.GetAllPersonTEST()2/  "'UnitTests.ClientTEST.GetAllPersonTEST()2/"""'UnitTests.ClientTEST.GetAllPersonTEST()2/##"'UnitTests.ClientTEST.GetAllPersonTEST()2/$$"'UnitTests.ClientTEST.GetAllPersonTEST()2/&&"'UnitTests.ClientTEST.GetAllPersonTEST()2/'	'"'UnitTests.ClientTEST.GetAllPersonTEST()8d@Ph‘Î†“âÇè
-Ò/RÍü¹­á×ßÇè'UnitTests.ClientTEST.RemovePersonTEST()(2/+	+"'UnitTests.ClientTEST.RemovePersonTEST()2/,,"'UnitTests.ClientTEST.RemovePersonTEST()2///"'UnitTests.ClientTEST.RemovePersonTEST()2/00"'UnitTests.ClientTEST.RemovePersonTEST()2/22"'UnitTests.ClientTEST.RemovePersonTEST()2/33"'UnitTests.ClientTEST.RemovePersonTEST()2/44"'UnitTests.ClientTEST.RemovePersonTEST()2/5	5"'UnitTests.ClientTEST.RemovePersonTEST()8d@PhğêÏ‘ØßÇè
-â0Rİş§õÕæßÇè#UnitTests.ClientTEST.InsertPerson()(2+9	9"#UnitTests.ClientTEST.InsertPerson()2+::"#UnitTests.ClientTEST.InsertPerson()2+;;"#UnitTests.ClientTEST.InsertPerson()2+<<"#UnitTests.ClientTEST.InsertPerson()2+=="#UnitTests.ClientTEST.InsertPerson()2+??"#UnitTests.ClientTEST.InsertPerson()2+@@"#UnitTests.ClientTEST.InsertPerson()2+BB"#UnitTests.ClientTEST.InsertPerson()2+CC"#UnitTests.ClientTEST.InsertPerson()2+EE"#UnitTests.ClientTEST.InsertPerson()2+GG"#UnitTests.ClientTEST.InsertPerson()2+H	H"#UnitTests.ClientTEST.InsertPerson()8d@Ph¢û·ôæßÇè
-½1R¸…²ôôòßÇè UnitTests.ClientTEST.ClearTEST()(2(L	L" UnitTests.ClientTEST.ClearTEST()2(MM" UnitTests.ClientTEST.ClearTEST()2(NN" UnitTests.ClientTEST.ClearTEST()2(OO" UnitTests.ClientTEST.ClearTEST()2(PP" UnitTests.ClientTEST.ClearTEST()2(QQ" UnitTests.ClientTEST.ClearTEST()2(SS" UnitTests.ClientTEST.ClearTEST()2(TT" UnitTests.ClientTEST.ClearTEST()2(U	U" UnitTests.ClientTEST.ClearTEST()8d@Ph¥ˆößõßÇè
-«2R¦Ç„“ÅŒàÇè+UnitTests.ClientTEST.GetPersonByIndexTEST()(23Y	Y"+UnitTests.ClientTEST.GetPersonByIndexTEST()23ZZ"+UnitTests.ClientTEST.GetPersonByIndexTEST()23[["+UnitTests.ClientTEST.GetPersonByIndexTEST()23\\"+UnitTests.ClientTEST.GetPersonByIndexTEST()23]]"+UnitTests.ClientTEST.GetPersonByIndexTEST()23^^"+UnitTests.ClientTEST.GetPersonByIndexTEST()23``"+UnitTests.ClientTEST.GetPersonByIndexTEST()23bb"+UnitTests.ClientTEST.GetPersonByIndexTEST()23c	c"+UnitTests.ClientTEST.GetPersonByIndexTEST()8d@Phƒö’á’àÇè
-“3RÏğéñ‘àÇè UnitTests.ClientTEST.CountTEST()(2(g	g" UnitTests.ClientTEST.CountTEST()2(hh" UnitTests.ClientTEST.CountTEST()2(ii" UnitTests.ClientTEST.CountTEST()2(kk" UnitTests.ClientTEST.CountTEST()2(ll" UnitTests.ClientTEST.CountTEST()2(mm" UnitTests.ClientTEST.CountTEST()2(oo" UnitTests.ClientTEST.CountTEST()2(r	r" UnitTests.ClientTEST.CountTEST()8d@Ph–‹šü•àÇèUc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\clienttest.csø¦‰åÂÏ1
-Á4R¼
-H5RD7UnitTests.AccessorMemoryTestClass.UnitTest1.ClearTEST()8ÿÿÿÿÿÿÿÿÿ
-O6RK>UnitTests.AccessorMemoryTestClass.UnitTest1.GetAllPersonTEST()8ÿÿÿÿÿÿÿÿÿ
-K7RG:UnitTests.AccessorMemoryTestClass.UnitTest1.InsertPerson()8ÿÿÿÿÿÿÿÿÿ
-O8RK>UnitTests.AccessorMemoryTestClass.UnitTest1.RemovePersonTEST()8ÿÿÿÿÿÿÿÿÿ
-L9RH;UnitTests.AccessorMemoryTestClass.UnitTest1.AddPersonTEST()8ÿÿÿÿÿÿÿÿÿ
-H:RD7UnitTests.AccessorMemoryTestClass.UnitTest1.CountTEST()8ÿÿÿÿÿÿÿÿÿ
-I;RE8UnitTests.AccessorMemoryTestClass.UnitTest1.PersonTEST()8ÿÿÿÿÿÿÿÿÿ
-J<RF9UnitTests.AccessorMemoryTestClass.UnitTest1.StorageTEST()8ÿÿÿÿÿÿÿÿÿ
-]=RYıÿ¥‡ŞÇè4UnitTests.AccessorMemoryTEST.UnitTest1.StorageTEST()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-[>RW–Î¦‡ŞÇè2UnitTests.AccessorMemoryTEST.UnitTest1.CountTEST()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-_?R[¼œ§‡ŞÇè6UnitTests.AccessorMemoryTEST.UnitTest1.AddPersonTEST()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-b@R^Ñê§‡ŞÇè9UnitTests.AccessorMemoryTEST.UnitTest1.RemovePersonTEST()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-^ARZé¸¨‡ŞÇè5UnitTests.AccessorMemoryTEST.UnitTest1.InsertPerson()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-bBR^èé²‡ŞÇè9UnitTests.AccessorMemoryTEST.UnitTest1.GetAllPersonTEST()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-[CRW¸³‡ŞÇè2UnitTests.AccessorMemoryTEST.UnitTest1.ClearTEST()8ÿÿÿÿÿÿÿÿÿ@PhÜàæàªŞÇè
-DDR@3UnitTests.AccessorMemoryTEST.UnitTest1.PersonTEST()8ÿÿÿÿÿÿÿÿÿ]c:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\accessormemorytest.csòÀü·úÂÏ1
-«ER¦
-@FR<-UnitTests.PersonTEST.PersonConsstructorTEST()8ÿÿÿÿÿÿÿÿÿPUc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\persontest.cs€ÏæÎ¿Ï1
-³[GR®[
-ñHRìúøâ“ãÇè<MyORMx.AccessorsClasses.AccessorBinarry.RemovePerson(String)(25C	C"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25EE"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25FF"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25HH"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25II"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25JJ"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25KK"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25LL"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25MM"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25NN"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25OO"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25H6H"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25H!H"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25RR"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25UU"-UnitTests.AccessBinaryTEST.RemovePersonTEST()2WW2XX2YY2ZZ25\	\"-UnitTests.AccessBinaryTEST.RemovePersonTEST()8P@HPh¬Ğæä³ãÇè
-IR™¥ğüıãÇè6MyORMx.AccessorsClasses.AccessorBinarry.GetAllPerson()(25r	r"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25tt"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25uu"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25ww"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()2xx2yy2zz25}}"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25~~"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()22‚‚2ƒƒ2„„27†	†"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()82@HPh¬Ğæä³ãÇè
-È	JRÃ	Üåú»ªÈè?MyORMx.AccessorsClasses.AccessorBinarry.GetPersonByIndex(Int32)(2•‰	‰"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()2•ŠŠ"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()2•‹‹"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()2ŒŒ222•‘‘"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()2•““"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()2•””"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()2––2——2˜˜2•›	›"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()85@HPhÙ¢·¼ªÈè
-òKRí»Î•÷œãÇè/MyORMx.AccessorsClasses.AccessorBinarry.Count()2f	"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()2fŸŸ"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()2f  "-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()2f¡	¡"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()8d@HPhÙû©ë¶ãÇè
-òLRíû¶ÁÜ¡ãÇè/MyORMx.AccessorsClasses.AccessorBinarry.Clear()2•¤	¤"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()2•¦¦"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()2•¨¨"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()2•©©"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()2««2¬¬2­­2®®2•°	°"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()87@HPh¬Ğæä³ãÇè
-±MR¬Ø’Ñ®àÇèFMyORMx.AccessorsClasses.AccessorBinarry.DeserializationBinarry(String)2î	"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î 	 "-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()8dHh‰¾Æˆ¯àÇè
-NRüŞÙ¡Ö±àÇèXMyORMx.AccessorsClasses.AccessorBinarry.SerializationWithExchangeOldFile(String,Storage)2î#	#"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î$$"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î%%"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î&&"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î(("-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î))"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î**"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î+	+"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()8d@Hhì³´¶áÇè
-@OR</MyORMx.AccessorsClasses.AccessorBinarry..ctor()8ÿÿÿÿÿÿÿÿÿ
-ıPRø9MyORMx.AccessorsClasses.AccessorBinarry.AddPerson(Person)2î/	/"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î11"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î22"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î55"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î88"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2î99"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()2;;2<<2==2>>2î@	@"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()8?HP
-ğQRëBMyORMx.AccessorsClasses.AccessorBinarry.InsertPerson(Int32,Person)25_	_"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25aa"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25bb"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25dd"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25ff"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25hh"-UnitTests.AccessBinaryTEST.InsertPersonTEST()2jj2kk2ll2mm25o	o"-UnitTests.AccessBinaryTEST.InsertPersonTEST()8?HPhc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\accessorsclasses\accessorbinarry.csêÛ×º¹×Ğ1
-ã,RRŞ,
-3SR/"UnitTests.AccessBinaryTEST..ctor()8ÿÿÿÿÿÿÿÿÿ
-ÏTRÊš“òğÎãÇè-UnitTests.AccessBinaryTEST.RemovePersonTEST()(258	8"-UnitTests.AccessBinaryTEST.RemovePersonTEST()2599"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25::"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25;;"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25<<"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25>>"-UnitTests.AccessBinaryTEST.RemovePersonTEST()25?	?"-UnitTests.AccessBinaryTEST.RemovePersonTEST()8d@hõñû„ÏãÇè
-‡UR‚Ô¤á”ÅãÇè'UnitTests.AccessBinaryTEST.DeleteFile()2	222222	8ÿÿÿÿÿÿÿÿÿ@h’¦¬ÍÌãÇè
-½VR¸ÊüÃºÙãÇè-UnitTests.AccessBinaryTEST.InsertPersonTEST()(25C	C"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25DD"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25EE"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25FF"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25GG"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25HH"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25JJ"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25KK"-UnitTests.AccessBinaryTEST.InsertPersonTEST()25L	L"-UnitTests.AccessBinaryTEST.InsertPersonTEST()8d@hˆš¬ÜÙãÇè
-†WR†ÈŸÚäãÇè-UnitTests.AccessBinaryTEST.GetPersonByIndex()(25P	P"-UnitTests.AccessBinaryTEST.GetPersonByIndex()25QQ"-UnitTests.AccessBinaryTEST.GetPersonByIndex()25RR"-UnitTests.AccessBinaryTEST.GetPersonByIndex()25SS"-UnitTests.AccessBinaryTEST.GetPersonByIndex()25TT"-UnitTests.AccessBinaryTEST.GetPersonByIndex()25UU"-UnitTests.AccessBinaryTEST.GetPersonByIndex()25WW"-UnitTests.AccessBinaryTEST.GetPersonByIndex()25X	X"-UnitTests.AccessBinaryTEST.GetPersonByIndex()8d@h¥”Í¿ìãÇè
-™XR”™êªùèãÇè-UnitTests.AccessBinaryTEST.GetAllPersonTEST()(25\	\"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25]]"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25^^"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25__"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25``"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25aa"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25ff"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25hh"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25ii"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25jj"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25kk"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25ll"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()25p	p"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()8d@h¥”Í¿ìãÇè
-µYR°°è™›ëãÇè*UnitTests.AccessBinaryTEST.AddPersonTEST()22,	,"*UnitTests.AccessBinaryTEST.AddPersonTEST()22--"*UnitTests.AccessBinaryTEST.AddPersonTEST()22.."*UnitTests.AccessBinaryTEST.AddPersonTEST()22//"*UnitTests.AccessBinaryTEST.AddPersonTEST()2211"*UnitTests.AccessBinaryTEST.AddPersonTEST()2233"*UnitTests.AccessBinaryTEST.AddPersonTEST()224	4"*UnitTests.AccessBinaryTEST.AddPersonTEST()8d@hàÛ……ÄåÇè
-PZRL‹ÉÍºëãÇè'UnitTests.AccessBinaryTEST.DeleteFiel()(8ÿÿÿÿÿÿÿÿÿ@hàÛ……ÄåÇè
-È[RÃ&UnitTests.AccessBinaryTEST.DeleteEnd()2î"	""-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()2î##"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()2î$$"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()2î%%"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()2î&&"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()2î''"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()2î(	("-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()8dP
-¦\R¡(UnitTests.AccessBinaryTEST.DeleteBegin()2î	"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()2î"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()22222î	"-UnitTests.AccessBinaryTEST.GetAllPersonTEST()"-UnitTests.AccessBinaryTEST.RemovePersonTEST()"-UnitTests.AccessBinaryTEST.GetPersonByIndex()"*UnitTests.AccessBinaryTEST.AddPersonTEST()"-UnitTests.AccessBinaryTEST.InsertPersonTEST()8*P[c:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\accessbinarytest.cs¾†íÜ˜ÌÏ1
-€6]Rû5
-X^RTÔƒê‡ åÇè/UnitTests.AccessorXMLTEST.DesirializXML(String)(8ÿÿÿÿÿÿÿÿÿ@hàÛ……ÄåÇè
-<_R8)UnitTests.AccessorXMLTEST.DesirializXML()(8ÿÿÿÿÿÿÿÿÿ
-É`RÄØ©ªÁĞåÇè)UnitTests.AccessorXMLTEST.AddPersonTEST()(21+	+")UnitTests.AccessorXMLTEST.AddPersonTEST()21,,")UnitTests.AccessorXMLTEST.AddPersonTEST()21--")UnitTests.AccessorXMLTEST.AddPersonTEST()21//")UnitTests.AccessorXMLTEST.AddPersonTEST()210	0")UnitTests.AccessorXMLTEST.AddPersonTEST()8d@hÉÕ„õĞåÇè
-QaRM”¿»£µåÇè(UnitTests.AccessorXMLTEST.GetAllPerson()(8ÿÿÿÿÿÿÿÿÿ@hàÛ……ÄåÇè
-ZbRVıÕªµåÇè1UnitTests.AccessorXMLTEST.GetPersonByIndex(Int32)(8ÿÿÿÿÿÿÿÿÿ@hàÛ……ÄåÇè
-JcRF¥Ú•°µåÇè!UnitTests.AccessorXMLTEST.Count()(8ÿÿÿÿÿÿÿÿÿ@hàÛ……ÄåÇè
-4dR0!UnitTests.AccessorXMLTEST..ctor()(8ÿÿÿÿÿÿÿÿÿ
-³eR®º‹­ŞÄåÇè%UnitTests.AccessorXMLTEST.CountTEST()(2-M	M"%UnitTests.AccessorXMLTEST.CountTEST()2-NN"%UnitTests.AccessorXMLTEST.CountTEST()2-OO"%UnitTests.AccessorXMLTEST.CountTEST()2-QQ"%UnitTests.AccessorXMLTEST.CountTEST()2-R	R"%UnitTests.AccessorXMLTEST.CountTEST()8d@PhÀ‡ßƒ™ôÇè
-¤fRŸ”‹šÈÍåÇè'UnitTests.AccessorXMLTEST.DeleteBegin()(2»	",UnitTests.AccessorXMLTEST.GetAllPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()")UnitTests.AccessorXMLTEST.AddPersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»",UnitTests.AccessorXMLTEST.GetAllPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()")UnitTests.AccessorXMLTEST.AddPersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()22222»	",UnitTests.AccessorXMLTEST.GetAllPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()")UnitTests.AccessorXMLTEST.AddPersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()8*@PhÉÕ„õĞåÇè
-ŞgRÙÁ¹ÅÓÍåÇè%UnitTests.AccessorXMLTEST.DeleteEnd()(2»!	!",UnitTests.AccessorXMLTEST.GetAllPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()")UnitTests.AccessorXMLTEST.AddPersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»""",UnitTests.AccessorXMLTEST.GetAllPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()")UnitTests.AccessorXMLTEST.AddPersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2”##",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()")UnitTests.AccessorXMLTEST.AddPersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2”$$",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()")UnitTests.AccessorXMLTEST.AddPersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2”%%",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()")UnitTests.AccessorXMLTEST.AddPersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2”&&",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()")UnitTests.AccessorXMLTEST.AddPersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»'	'",UnitTests.AccessorXMLTEST.GetAllPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()")UnitTests.AccessorXMLTEST.AddPersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()8d@PhÉÕ„õĞåÇè
-“hRÛ•ØƒÔåÇè,UnitTests.AccessorXMLTEST.RemovePersonTEST()(243	3",UnitTests.AccessorXMLTEST.RemovePersonTEST()2444",UnitTests.AccessorXMLTEST.RemovePersonTEST()2455",UnitTests.AccessorXMLTEST.RemovePersonTEST()2466",UnitTests.AccessorXMLTEST.RemovePersonTEST()2477",UnitTests.AccessorXMLTEST.RemovePersonTEST()248	8",UnitTests.AccessorXMLTEST.RemovePersonTEST()8d@PhÀ‡ßƒ™ôÇè
-µiR°ıÍğÛåÇè,UnitTests.AccessorXMLTEST.InsertPersonTEST()(24;	;",UnitTests.AccessorXMLTEST.InsertPersonTEST()24<<",UnitTests.AccessorXMLTEST.InsertPersonTEST()24==",UnitTests.AccessorXMLTEST.InsertPersonTEST()24>>",UnitTests.AccessorXMLTEST.InsertPersonTEST()24??",UnitTests.AccessorXMLTEST.InsertPersonTEST()24@@",UnitTests.AccessorXMLTEST.InsertPersonTEST()24BB",UnitTests.AccessorXMLTEST.InsertPersonTEST()24CC",UnitTests.AccessorXMLTEST.InsertPersonTEST()24E	E",UnitTests.AccessorXMLTEST.InsertPersonTEST()8d@Ph×áöÙÛåÇè
-×jRÒõ¤”²ååÇè,UnitTests.AccessorXMLTEST.GetAllPersonTEST()(24K	K",UnitTests.AccessorXMLTEST.GetAllPersonTEST()24LL",UnitTests.AccessorXMLTEST.GetAllPersonTEST()24MM",UnitTests.AccessorXMLTEST.GetAllPersonTEST()24NN",UnitTests.AccessorXMLTEST.GetAllPersonTEST()24OO",UnitTests.AccessorXMLTEST.GetAllPersonTEST()24PP",UnitTests.AccessorXMLTEST.GetAllPersonTEST()24RR",UnitTests.AccessorXMLTEST.GetAllPersonTEST()24SS",UnitTests.AccessorXMLTEST.GetAllPersonTEST()24TT",UnitTests.AccessorXMLTEST.GetAllPersonTEST()24UU",UnitTests.AccessorXMLTEST.GetAllPersonTEST()24VV",UnitTests.AccessorXMLTEST.GetAllPersonTEST()24X	X",UnitTests.AccessorXMLTEST.GetAllPersonTEST()8d@PhöîîíååÇè
-¯kRªÃ£¬ìíåÇè0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()(28\	\"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()28]]"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()28__"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()28``"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()28bb"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()28c	c"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()8d@Ph™ÑœòåÇè
-âlRİÅøèšñåÇè%UnitTests.AccessorXMLTEST.ClearTEST()(2-q	q"%UnitTests.AccessorXMLTEST.ClearTEST()2-rr"%UnitTests.AccessorXMLTEST.ClearTEST()2-ss"%UnitTests.AccessorXMLTEST.ClearTEST()2-tt"%UnitTests.AccessorXMLTEST.ClearTEST()2-uu"%UnitTests.AccessorXMLTEST.ClearTEST()2-v	v"%UnitTests.AccessorXMLTEST.ClearTEST()8d@Ph™ÑœòåÇèZc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\accessorxmltest.csş³¶¤ÎÏ1
-•mmRm
->nR:+MyORMx.AccessorsClasses.AccessXML.d(String)(8ÿÿÿÿÿÿÿÿÿ
-BoR>/MyORMx.AccessorsClasses.AccessXML..ctor(String)(8ÿÿÿÿÿÿÿÿÿ
-HpRD7MyORMx.AccessorsClasses.AccessXML.DesirializXML(String)8ÿÿÿÿÿÿÿÿÿ
-_qR[NMyORMx.AccessorsClasses.AccessXML.SerializtionWithExchengeFile(String,Storage)8ÿÿÿÿÿÿÿÿÿ
-DrR@3MyORMx.AccessorsClasses.AccessXML.AddPerson(Person)8ÿÿÿÿÿÿÿÿÿ
-GsRC6MyORMx.AccessorsClasses.AccessXML.RemovePerson(String)8ÿÿÿÿÿÿÿÿÿ
-MtRI<MyORMx.AccessorsClasses.AccessXML.InsertPerson(Int32,Person)8ÿÿÿÿÿÿÿÿÿ
-AuR=0MyORMx.AccessorsClasses.AccessXML.GetAllPerson()8ÿÿÿÿÿÿÿÿÿ
-JvRF9MyORMx.AccessorsClasses.AccessXML.GetPersonByIndex(Int32)8ÿÿÿÿÿÿÿÿÿ
-:wR6)MyORMx.AccessorsClasses.AccessXML.Count()8ÿÿÿÿÿÿÿÿÿ
-:xR6)MyORMx.AccessorsClasses.AccessXML.Clear()8ÿÿÿÿÿÿÿÿÿ
-¶yR±¡¯ñÌªåÇè9MyORMx.AccessorsClasses.AccessorXML.DesirializXML(String)2»	")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2”")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2”")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2”")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2”")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2”")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2”")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»  ")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2""2##2$$2%%2»'	'")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()8L@HhÀ‡ßƒ™ôÇè
-¿zRºîËòÌªåÇèPMyORMx.AccessorsClasses.AccessorXML.SerializtionWithExchengeFile(String,Storage)2»*	*")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»,,")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»--")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»..")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»//")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»11")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»22")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»33")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2552662772882»:	:")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()8E@HhÀ‡ßƒ™ôÇè
-ª{R¥›èóÌªåÇè5MyORMx.AccessorsClasses.AccessorXML.AddPerson(Person)2»=	=")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»??")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»@@")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»BB")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»DD")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2»EE")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2GG2HH2II2JJ2»L	L")UnitTests.AccessorXMLTEST.AddPersonTEST()",UnitTests.AccessorXMLTEST.InsertPersonTEST()",UnitTests.AccessorXMLTEST.RemovePersonTEST()"%UnitTests.AccessorXMLTEST.CountTEST()",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"%UnitTests.AccessorXMLTEST.ClearTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()8?@HPhÀ‡ßƒ™ôÇè
-Û|RÖ´¶ôÌªåÇè8MyORMx.AccessorsClasses.AccessorXML.RemovePerson(String)24O	O",UnitTests.AccessorXMLTEST.RemovePersonTEST()24QQ",UnitTests.AccessorXMLTEST.RemovePersonTEST()24RR",UnitTests.AccessorXMLTEST.RemovePersonTEST()24TT",UnitTests.AccessorXMLTEST.RemovePersonTEST()24UU",UnitTests.AccessorXMLTEST.RemovePersonTEST()24VV",UnitTests.AccessorXMLTEST.RemovePersonTEST()24WW",UnitTests.AccessorXMLTEST.RemovePersonTEST()24XX",UnitTests.AccessorXMLTEST.RemovePersonTEST()24YY",UnitTests.AccessorXMLTEST.RemovePersonTEST()24ZZ",UnitTests.AccessorXMLTEST.RemovePersonTEST()24[[",UnitTests.AccessorXMLTEST.RemovePersonTEST()24T6T",UnitTests.AccessorXMLTEST.RemovePersonTEST()24T!T",UnitTests.AccessorXMLTEST.RemovePersonTEST()24]]",UnitTests.AccessorXMLTEST.RemovePersonTEST()24__",UnitTests.AccessorXMLTEST.RemovePersonTEST()2aa2bb2cc2dd24f	f",UnitTests.AccessorXMLTEST.RemovePersonTEST()8P@HPhÀ‡ßƒ™ôÇè
-û}RöÍ„õÌªåÇè>MyORMx.AccessorsClasses.AccessorXML.InsertPerson(Int32,Person)24i	i",UnitTests.AccessorXMLTEST.InsertPersonTEST()24kk",UnitTests.AccessorXMLTEST.InsertPersonTEST()24ll",UnitTests.AccessorXMLTEST.InsertPersonTEST()24nn",UnitTests.AccessorXMLTEST.InsertPersonTEST()24pp",UnitTests.AccessorXMLTEST.InsertPersonTEST()24rr",UnitTests.AccessorXMLTEST.InsertPersonTEST()2tt2uu2vv2ww24y	y",UnitTests.AccessorXMLTEST.InsertPersonTEST()8?@HPhÀ‡ßƒ™ôÇè
-]~RYáÒõÌªåÇè2MyORMx.AccessorsClasses.AccessorXML.GetAllPerson()8ÿÿÿÿÿÿÿÿÿ@HPhÀ‡ßƒ™ôÇè
-øRó›¾ÓÑºªÈè;MyORMx.AccessorsClasses.AccessorXML.GetPersonByIndex(Int32)(2h“	“",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2h””",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2h––",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2——2˜˜2h››",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2h",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2h",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2  2¡¡2¢¢2h¥	¥",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()8:@HPhÙ¢·¼ªÈè
-¯€R©§½÷ÌªåÇè+MyORMx.AccessorsClasses.AccessorXML.Count()26¨	¨",UnitTests.AccessorXMLTEST.GetAllPersonTEST()26©©",UnitTests.AccessorXMLTEST.GetAllPersonTEST()26««",UnitTests.AccessorXMLTEST.GetAllPersonTEST()26­	­",UnitTests.AccessorXMLTEST.GetAllPersonTEST()8d@HPhÀ‡ßƒ™ôÇè
-·R±ÃâÅ»åÇè+MyORMx.AccessorsClasses.AccessorXML.Clear()(2h°	°",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2h±±",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2h²²",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2h³³",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2h´´",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2hµµ",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2h¶	¶",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()8d@HPhàÛ……ÄåÇè
-=‚R8+MyORMx.AccessorsClasses.AccessorXML..ctor()8ÿÿÿÿÿÿÿÿÿdc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\accessorsclasses\accessorxml.cs°ş‹¹¶×Ğ1
-™OƒR“O
-Ä„R¾×¸¼ÔôòÇè4MyORMx.AccessorsClasses.AccessorDB.AddPerson(Person)2·	"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()222  2!!2·$$"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·%%"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·&&"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·(("(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2**2++2,,2--2·/	/"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()8?@HPhÀ‡ßƒ™ôÇè
-…Rû¡‡Š‹‹óÇè7MyORMx.AccessorsClasses.AccessorDB.RemovePerson(String)232	2"+UnitTests.AccessorDBTEST.RemovePersonTEST()2344"+UnitTests.AccessorDBTEST.RemovePersonTEST()2355"+UnitTests.AccessorDBTEST.RemovePersonTEST()2377"+UnitTests.AccessorDBTEST.RemovePersonTEST()2399"+UnitTests.AccessorDBTEST.RemovePersonTEST()23<<"+UnitTests.AccessorDBTEST.RemovePersonTEST()23=="+UnitTests.AccessorDBTEST.RemovePersonTEST()23>>"+UnitTests.AccessorDBTEST.RemovePersonTEST()23??"+UnitTests.AccessorDBTEST.RemovePersonTEST()2@@2AA2BB2CC23EE"+UnitTests.AccessorDBTEST.RemovePersonTEST()23FF"+UnitTests.AccessorDBTEST.RemovePersonTEST()23GG"+UnitTests.AccessorDBTEST.RemovePersonTEST()23II"+UnitTests.AccessorDBTEST.RemovePersonTEST()2KK2LL2MM2NN23P	P"+UnitTests.AccessorDBTEST.RemovePersonTEST()8?@HPhÀ‡ßƒ™ôÇè
-Œ†R†ü„ê˜ŒóÇè=MyORMx.AccessorsClasses.AccessorDB.InsertPerson(Int32,Person)(23S	S"+UnitTests.AccessorDBTEST.InsertPersonTEST()23UU"+UnitTests.AccessorDBTEST.InsertPersonTEST()23VV"+UnitTests.AccessorDBTEST.InsertPersonTEST()23WW"+UnitTests.AccessorDBTEST.InsertPersonTEST()2YY2ZZ2[[2\\23^	^"+UnitTests.AccessorDBTEST.InsertPersonTEST()87@HPhÀ‡ßƒ™ôÇè
-µ‡R¯é«Ü¯—ÆÈè1MyORMx.AccessorsClasses.AccessorDB.GetAllPerson()(23a	a"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23bb"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23ee"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23ff"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23hh"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23ii"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23kk"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23nn"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23oo"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23qq"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23rr"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23tt"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23uu"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23mm"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23xx"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23yy"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23{{"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2}}2~~22€€25‚	‚"+UnitTests.AccessorDBTEST.GetAllPersonTEST()8Q@HPh¯Úå¡°×Èè
-¹ˆR³§œıéüóÇè*MyORMx.AccessorsClasses.AccessorDB.Count()2Œ£	£"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()2Œ¥¥"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()2Œ¦¦"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()2Œ¨¨"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()2Œ©©"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()2Œ««"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()2Œ¬¬"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()2Œ­­"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()2Œ®®"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()2Œ°°"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()2Œ±±"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()2Œ³³"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()2µµ2¶¶2··2¸¸2Œº	º"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()8L@HPhÀ‡ßƒ™ôÇè
-æ‰RàªÀšôÇè*MyORMx.AccessorsClasses.AccessorDB.Clear()2¹½	½"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2¹¿¿"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2¹ÀÀ"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2¹ÂÂ"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2¹ÄÄ"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2¹ÅÅ"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2¹ÆÆ"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2¹ÇÇ"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2ÈÈ2ÉÉ2ÊÊ2ËË2¹ÎÎ"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2¹ÏÏ"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2¹ĞĞ"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2¹ÒÒ"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2¹ÓÓ"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2ÕÕ2ÖÖ2××2ØØ2¹Ú	Ú"+UnitTests.AccessorDBTEST.InsertPersonTEST()"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()8?@HPhÀ‡ßƒ™ôÇè
-hŠRc¸ıÈè:MyORMx.AccessorsClasses.AccessorDB.GetPersonByIndex(Int32)(8ÿÿÿÿÿÿÿÿÿ@HPhÁí÷¯Èècc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\accessorsclasses\accessordb.csÖ‹ß¶ñÑ1
-x‹Rsdc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\properties\settings.designer.cs²Ê¨ˆæÏ1
-|ŒRwhc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\source\database1dataset.designer.cs¨´–¯ˆæÏ1
-ÖRĞ
-œR–û©ù²ÄôÇè(UnitTests.AccessorDBTEST.AddPersonTEST()(20'
-'"(UnitTests.AccessorDBTEST.AddPersonTEST()20(("(UnitTests.AccessorDBTEST.AddPersonTEST()20))"(UnitTests.AccessorDBTEST.AddPersonTEST()20++"(UnitTests.AccessorDBTEST.AddPersonTEST()2,
-,8P@Ph¼Ú˜õ½ôÇè
-2R- UnitTests.AccessorDBTEST..ctor()8ÿÿÿÿÿÿÿÿÿ
-öRğ“©ì¹­ôÇè&UnitTests.AccessorDBTEST.DeleteBegin()2·
-"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·
-"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()8d@PhÑ¸Éå¹ôÇè
-ô‘Rî·“È­ôÇè$UnitTests.AccessorDBTEST.DeleteEnd()2· 
- "(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·!!"(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()2·"
-""(UnitTests.AccessorDBTEST.AddPersonTEST()"+UnitTests.AccessorDBTEST.InsertPersonTEST()"+UnitTests.AccessorDBTEST.RemovePersonTEST()"+UnitTests.AccessorDBTEST.GetAllPersonTEST()8d@PhÑ¸Éå¹ôÇè
-’R‡í°ñÊ½ôÇè+UnitTests.AccessorDBTEST.InsertPersonTEST()(23<
-<"+UnitTests.AccessorDBTEST.InsertPersonTEST()23=="+UnitTests.AccessorDBTEST.InsertPersonTEST()23>>"+UnitTests.AccessorDBTEST.InsertPersonTEST()23@@"+UnitTests.AccessorDBTEST.InsertPersonTEST()23BB"+UnitTests.AccessorDBTEST.InsertPersonTEST()23C
-C"+UnitTests.AccessorDBTEST.InsertPersonTEST()8d@Ph¼Ú˜õ½ôÇè
-9“R4'UnitTests.AccessorDBTEST.RemovePerson()8ÿÿÿÿÿÿÿÿÿ
-À”RºÍÉÙ›ºôÇè+UnitTests.AccessorDBTEST.RemovePersonTEST()230
-0"+UnitTests.AccessorDBTEST.RemovePersonTEST()2311"+UnitTests.AccessorDBTEST.RemovePersonTEST()2322"+UnitTests.AccessorDBTEST.RemovePersonTEST()2333"+UnitTests.AccessorDBTEST.RemovePersonTEST()2355"+UnitTests.AccessorDBTEST.RemovePersonTEST()2377"+UnitTests.AccessorDBTEST.RemovePersonTEST()238
-8"+UnitTests.AccessorDBTEST.RemovePersonTEST()8d@PhÁí÷¯Èè
-”•R+UnitTests.AccessorDBTEST.GetAllPersonTEST()23G
-G"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23HH"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23II"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23JJ"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23KK"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23MM"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23NN"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23PP"+UnitTests.AccessorDBTEST.GetAllPersonTEST()23Q
-Q"+UnitTests.AccessorDBTEST.GetAllPersonTEST()8dPYc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\accessordbtest.csø£‡ĞËëÏ1
-{–Rvgc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\properties\settings.designer.csÔ«õŞÒêÏ1
-—Rzkc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\source\database1dataset.designer.csœÆâáÒêÏ1
-f˜RaRc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\app.configéŞÒêÏ1
-x™Rsdc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\properties\settings.settingsºğŞÒêÏ1
-pšRk\c:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\source\database1.sdf¬¶¯›µÑ1
-w›Rrcc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\source\database1dataset.xsdÖ¹ ßÒêÏ1
-ÍœRÇ
-ŠR„Ë­ø…ÖõÇè.MyORMx.Attributes.AttributeTable..ctor(String)2f	",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2f",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2f	",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()8d@HPhÁí÷¯Èè
-`R[«Ëù…ÖõÇè0MyORMx.Attributes.AttributeTable.get_TableName()(8ÿÿÿÿÿÿÿÿÿ@HPXhÁí÷¯Èè
-fŸRaÃ™ú…ÖõÇè6MyORMx.Attributes.AttributeTable.set_TableName(String)(8ÿÿÿÿÿÿÿÿÿ@HPXhÁí÷¯Èèac:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\attributes\attributetable.csˆÜ§èÄîÏ1
-Î RÈ
-ü¡RöÿúòáõÇè8MyORMx.Attributes.AttributeProperties..ctor(String,Type)2f	",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2f",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2f",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()2f	",UnitTests.AccessorXMLTEST.GetAllPersonTEST()"0UnitTests.AccessorXMLTEST.GetPersonByIndexTEST()8d@HPhÁí÷¯Èè
-e¢R`†İúòáõÇè5MyORMx.Attributes.AttributeProperties.get_FieldName()(8ÿÿÿÿÿÿÿÿÿ@HPXhÁí÷¯Èè
-k£Rfš«ûòáõÇè;MyORMx.Attributes.AttributeProperties.set_FieldName(String)(8ÿÿÿÿÿÿÿÿÿ@HPXhÁí÷¯Èèfc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\attributes\attributeproperties.cs®² èÄîÏ1
-œ
-¤R–
-
-N¥RI´ÊÚˆª–Èè"MyORMx.ChiefClass.SelectAccessor()(8ÿÿÿÿÿÿÿÿÿ@HhœÍ·áé—Èè
-L¦RGÇ–Æœä“Èè MyORMx.ChiefClass.EnterOnly123()(8ÿÿÿÿÿÿÿÿÿ@HhœÍ·áé—Èè
-D§R?ÏÍù¢¼×ÈèMyORMx.ChiefClass.Do()(8ÿÿÿÿÿÿÿÿÿ@HPhâûá ÙÈè
-P¨RK®ü•ïå“Èè$MyORMx.ChiefClass.EnterOnly1234567()(8ÿÿÿÿÿÿÿÿÿ@HhœÍ·áé—Èè
-K©RFâØ÷ï–ÈèMyORMx.ChiefClass.AddPERSON()(8ÿÿÿÿÿÿÿÿÿ@HPhœÍ·áé—Èè
-)ªR$MyORMx.ChiefClass.E()(8ÿÿÿÿÿÿÿÿÿ
-.«R)MyORMx.ChiefClass..cctor()(8ÿÿÿÿÿÿÿÿÿ
--¬R(MyORMx.ChiefClass..ctor()(8ÿÿÿÿÿÿÿÿÿ
-9­R4#MyORMx.ChiefClass.EnterOnlyNumber()(8ÿÿÿÿÿÿÿÿÿH
-N®RI÷²Ü½î–Èè MyORMx.ChiefClass.RemovePERSON()(8ÿÿÿÿÿÿÿÿÿ@HPhœÍ·áé—Èè
-N¯RIÌË…éí–Èè MyORMx.ChiefClass.InsertPERSON()(8ÿÿÿÿÿÿÿÿÿ@HPhœÍ·áé—Èè
-I°RDè °É–ÈèMyORMx.ChiefClass.showALL()(8ÿÿÿÿÿÿÿÿÿ@HPhœÍ·áé—Èè
-G±RBšµ©»ë–ÈèMyORMx.ChiefClass.Clear()(8ÿÿÿÿÿÿÿÿÿ@HPhœÍ·áé—Èè
-R²RMÎÆ¹ˆÛ–Èè$MyORMx.ChiefClass.GetPersonByIndex()(8ÿÿÿÿÿÿÿÿÿ@HPhœÍ·áé—Èè
-G³RBÊœê–ÈèMyORMx.ChiefClass.Count()(8ÿÿÿÿÿÿÿÿÿ@HPhœÍ·áé—Èè
-M´RH˜³çõ–Èè!MyORMx.ChiefClass.EnterOnly1234()(8ÿÿÿÿÿÿÿÿÿ@HhÙ¢·¼ªÈè
-KµRFÇÃçØ›×ÈèMyORMx.ChiefClass.EnterOnly12()(8ÿÿÿÿÿÿÿÿÿ@Hh¯Úå¡°×ÈèRc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\chiefclass.csÜüµî¹±Ñ1
-l¶RgXc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\interfaces\chief.csÂšÖøı°Ğ1
-¨*·R¢*
-È¸RÂÅÔîóß—ÈèUnitTests.ChiefMock.AddPERSON()(2	"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()" UnitTests.ChiefClassTEST.Clear()2"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()" UnitTests.ChiefClassTEST.Clear()2"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()" UnitTests.ChiefClassTEST.Clear()2"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()" UnitTests.ChiefClassTEST.Clear()2	"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()" UnitTests.ChiefClassTEST.Clear()8d@PhœÍ·áé—Èè
-š¹R”¿ÀÇãß—Èè"UnitTests.ChiefMock.RemovePERSON()(23	"+UnitTests.ChiefClassTEST.RemovePersonTEST()23"+UnitTests.ChiefClassTEST.RemovePersonTEST()23"+UnitTests.ChiefClassTEST.RemovePersonTEST()23	"+UnitTests.ChiefClassTEST.RemovePersonTEST()8d@PhœÍ·áé—Èè
-„ºRşÏÄëİƒ˜Èè"UnitTests.ChiefMock.InsertPERSON()(23"	""+UnitTests.ChiefClassTEST.InsertPERSONTEST()23##"+UnitTests.ChiefClassTEST.InsertPERSONTEST()23$$"+UnitTests.ChiefClassTEST.InsertPERSONTEST()23%%"+UnitTests.ChiefClassTEST.InsertPERSONTEST()23&&"+UnitTests.ChiefClassTEST.InsertPERSONTEST()23'	'"+UnitTests.ChiefClassTEST.InsertPERSONTEST()8d@PhÏ¹Şä…˜Èè
-I»RDŞäòµß—ÈèUnitTests.ChiefMock.showALL()(8ÿÿÿÿÿÿÿÿÿ@PhœÍ·áé—Èè
-Ì¼RÆÖí˜ß—ÈèUnitTests.ChiefMock.Clear()(2¬/	/"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2¬00"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2¬1	1"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()8d@PhœÍ·áé—Èè
-R½RMäÜ¦‰ß—Èè&UnitTests.ChiefMock.GetPersonByIndex()(8ÿÿÿÿÿÿÿÿÿ@PhœÍ·áé—Èè
-G¾RBî…­½Ş—ÈèUnitTests.ChiefMock.Count()(8ÿÿÿÿÿÿÿÿÿ@PhœÍ·áé—Èè
-4¿R/ UnitTests.ChiefClassTEST..ctor()(8ÿÿÿÿÿÿÿÿÿ
-/ÀR*UnitTests.ChiefMock..ctor()(8ÿÿÿÿÿÿÿÿÿ
-ÂÁR¼§¤˜Îÿ—Èè+UnitTests.ChiefClassTEST.RemovePersonTEST()(23`	`"+UnitTests.ChiefClassTEST.RemovePersonTEST()23aa"+UnitTests.ChiefClassTEST.RemovePersonTEST()23bb"+UnitTests.ChiefClassTEST.RemovePersonTEST()23cc"+UnitTests.ChiefClassTEST.RemovePersonTEST()23ee"+UnitTests.ChiefClassTEST.RemovePersonTEST()23gg"+UnitTests.ChiefClassTEST.RemovePersonTEST()23h	h"+UnitTests.ChiefClassTEST.RemovePersonTEST()8d@Phıµ†âÿ—Èè
-ÄÂR¾Àóä›ñ—Èè(UnitTests.ChiefClassTEST.AddPersonTEST()(20W	W"(UnitTests.ChiefClassTEST.AddPersonTEST()20XX"(UnitTests.ChiefClassTEST.AddPersonTEST()20YY"(UnitTests.ChiefClassTEST.AddPersonTEST()20ZZ"(UnitTests.ChiefClassTEST.AddPersonTEST()20\	\"(UnitTests.ChiefClassTEST.AddPersonTEST()8dPhÙ¢·¼ªÈè
-×ÃRÑÓ¿Ó™õ—Èè&UnitTests.ChiefClassTEST.DeleteBegin()(2¬K	K"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2¬LL"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2¬M	M"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()8d@PhÜ®—’û—Èè
-ÕÄRÏæë¶®õ—Èè$UnitTests.ChiefClassTEST.DeleteEnd()(2¬Q	Q"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2¬RR"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()2¬S	S"(UnitTests.ChiefClassTEST.AddPersonTEST()"+UnitTests.ChiefClassTEST.RemovePersonTEST()"+UnitTests.ChiefClassTEST.InsertPERSONTEST()" UnitTests.ChiefClassTEST.Clear()8d@PhÜ®—’û—Èè
-¬ÅR¦Ø¢¼‚Œ˜Èè+UnitTests.ChiefClassTEST.InsertPERSONTEST()(23l	l"+UnitTests.ChiefClassTEST.InsertPERSONTEST()23mm"+UnitTests.ChiefClassTEST.InsertPERSONTEST()23nn"+UnitTests.ChiefClassTEST.InsertPERSONTEST()23oo"+UnitTests.ChiefClassTEST.InsertPERSONTEST()23pp"+UnitTests.ChiefClassTEST.InsertPERSONTEST()23ss"+UnitTests.ChiefClassTEST.InsertPERSONTEST()23uu"+UnitTests.ChiefClassTEST.InsertPERSONTEST()23vv"+UnitTests.ChiefClassTEST.InsertPERSONTEST()23w	w"+UnitTests.ChiefClassTEST.InsertPERSONTEST()8d@PhÍ´Ó¡Œ˜Èè
-8ÆR3&UnitTests.ChiefClassTEST.ShowAllTEST()8ÿÿÿÿÿÿÿÿÿ
-ÄÇR¾Á„í¬™˜Èè UnitTests.ChiefClassTEST.Clear()(2({	{" UnitTests.ChiefClassTEST.Clear()2(||" UnitTests.ChiefClassTEST.Clear()2(}}" UnitTests.ChiefClassTEST.Clear()2(" UnitTests.ChiefClassTEST.Clear()2*" UnitTests.ChiefClassTEST.Clear()2*‚	‚" UnitTests.ChiefClassTEST.Clear()8d@PhÎ›ÁÃ™˜Èè
-=ÈR8+UnitTests.ChiefClassTEST.GetPersonByIndex()8ÿÿÿÿÿÿÿÿÿYc:\users\hp home\documents\visual studio 2012\projects\myormx\unittests\chiefclasstest.csÆãæ”ÿ²Ğ1
-©ÉR£
-4ÊR/MyWinFormProject.Form1..ctor()(8ÿÿÿÿÿÿÿÿÿP
-_ËRZÑµ÷Ÿ”ÈÈè3MyWinFormProject.Form1.Form1_Load(Object,EventArgs)(8ÿÿÿÿÿÿÿÿÿ@Hh¯Úå¡°×Èè
-ZÌRUFMyWinFormProject.Form1.radioAddPerson_CheckedChanged(Object,EventArgs)(8ÿÿÿÿÿÿÿÿÿ
-]ÍRXIMyWinFormProject.Form1.radioRemovePerson_CheckedChanged(Object,EventArgs)(8ÿÿÿÿÿÿÿÿÿ
-]ÎRXIMyWinFormProject.Form1.radioInsertPerson_CheckedChanged(Object,EventArgs)(8ÿÿÿÿÿÿÿÿÿ
-aÏR\MMyWinFormProject.Form1.radioGetPersonByIndex_CheckedChanged(Object,EventArgs)(8ÿÿÿÿÿÿÿÿÿ
-XĞRSDMyWinFormProject.Form1.radioShowAll_CheckedChanged(Object,EventArgs)(8ÿÿÿÿÿÿÿÿÿ
-VÑRQBMyWinFormProject.Form1.radioCount_CheckedChanged(Object,EventArgs)(8ÿÿÿÿÿÿÿÿÿ
-VÒRQBMyWinFormProject.Form1.radioClear_CheckedChanged(Object,EventArgs)(8ÿÿÿÿÿÿÿÿÿ
-WÓRRCMyWinFormProject.Form1.radioBinary_CheckedChanged(Object,EventArgs)(8ÿÿÿÿÿÿÿÿÿ
-TÔRO@MyWinFormProject.Form1.radioXML_CheckedChanged(Object,EventArgs)(8ÿÿÿÿÿÿÿÿÿ
-SÕRN?MyWinFormProject.Form1.radioDB_CheckedChanged(Object,EventArgs)(8ÿÿÿÿÿÿÿÿÿ
-aÖR\ÂÍÏ¿ÔªÈè7MyWinFormProject.Form1.buttonOk_Click(Object,EventArgs)(8ÿÿÿÿÿÿÿÿÿ@hïÀ“ò’ÃÈè
-P×RK©‡¨ÆáªÈè"MyWinFormProject.Form1.AddPERSON()(8ÿÿÿÿÿÿÿÿÿ@HPhïÀ“ò’ÃÈè
-SØRNóê¢‘âªÈè%MyWinFormProject.Form1.RemovePERSON()(8ÿÿÿÿÿÿÿÿÿ@HPhïÀ“ò’ÃÈè
-SÙRNÃ‹°–äªÈè%MyWinFormProject.Form1.InsertPERSON()(8ÿÿÿÿÿÿÿÿÿ@HPhïÀ“ò’ÃÈè
-NÚRI²ä–ªäªÈè MyWinFormProject.Form1.showALL()(8ÿÿÿÿÿÿÿÿÿ@HPhïÀ“ò’ÃÈè
-LÛRGëÈèÃäªÈèMyWinFormProject.Form1.Clear()(8ÿÿÿÿÿÿÿÿÿ@HPhïÀ“ò’ÃÈè
-WÜRRÖâİÙµÆÈè)MyWinFormProject.Form1.GetPersonByIndex()(8ÿÿÿÿÿÿÿÿÿ@HPh¯Úå¡°×Èè
-LİRGôŠ×âäªÈèMyWinFormProject.Form1.Count()(8ÿÿÿÿÿÿÿÿÿ@HPhïÀ“ò’ÃÈè
-pŞRkµ½Ğÿ‡ÈÈèDMyWinFormProject.Form1.textboxAge_KeyPress(Object,KeyPressEventArgs)(8ÿÿÿÿÿÿÿÿÿ@Hh¯Úå¡°×Èè
-rßRmìğáŒ‘ÈÈèFMyWinFormProject.Form1.textBoxIndex_KeyPress(Object,KeyPressEventArgs)(8ÿÿÿÿÿÿÿÿÿ@Hh¯Úå¡°×Èèhc:\users\hp home\documents\visual studio 2012\projects\myormx\mywinformproject\mywinformproject\form1.csÀ½‰Óé’Ñ1
-¡àR›
-8áR3$MyORMx.orm.SimpleOrm.showAll(Object)8ÿÿÿÿÿÿÿÿÿP
-=âR8)MyORMx.orm.SimpleOrm.GetTableName(Object)8ÿÿÿÿÿÿÿÿÿP
-;ãR6'MyORMx.orm.SimpleOrm.GetTableName(Type)8ÿÿÿÿÿÿÿÿÿP
-BäR=.MyORMx.orm.SimpleOrm.GetAllColumnsName(Object)8ÿÿÿÿÿÿÿÿÿP
-@åR;,MyORMx.orm.SimpleOrm.GetAllColumnsName(Type)8ÿÿÿÿÿÿÿÿÿP
-CæR>/MyORMx.orm.SimpleOrm.GetAllValuesString(Object)8ÿÿÿÿÿÿÿÿÿP
-AçR<-MyORMx.orm.SimpleOrm.GetStringColumns(Object)8ÿÿÿÿÿÿÿÿÿP
-?èR:+MyORMx.orm.SimpleOrm.GetStringColumns(Type)8ÿÿÿÿÿÿÿÿÿP
-@éR;,MyORMx.orm.SimpleOrm.GetStringValues(Object)8ÿÿÿÿÿÿÿÿÿP
-:êR5&MyORMx.orm.SimpleOrm.AddPerson(Object)8ÿÿÿÿÿÿÿÿÿP
-BëR=.MyORMx.orm.SimpleOrm.RemovePerson(String,Type)8ÿÿÿÿÿÿÿÿÿP
-;ìR6'MyORMx.orm.SimpleOrm.GetAllPerson(Type)8ÿÿÿÿÿÿÿÿÿP
-EíR@1MyORMx.orm.SimpleOrm.GetPersonByIndex(Int32,Type)8ÿÿÿÿÿÿÿÿÿP
-4îR/ MyORMx.orm.SimpleOrm.Count(Type)8ÿÿÿÿÿÿÿÿÿP
-4ïR/ MyORMx.orm.SimpleOrm.Clear(Type)8ÿÿÿÿÿÿÿÿÿPUc:\users\hp home\documents\visual studio 2012\projects\myormx\myormx\orm\simpleorm.csîÄÎœ˜“Ñ1½"ğR·"
-ôñRî
-f
-g
-i
-‚
-
-{
-y
-z
-}
-€
-
-d_òRZC:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\AccessorXMLTEST.cs*UnitTests.AccessorXMLTEST.InsertPersonTEST (BóRUnitTests\UnitTests.csprojRÔRh
-§ôR¡
-,
--ZõRUC:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\ClientTEST.cs*UnitTests.ClientTEST.ClientConstructorTEST (BóRh
-ÛöRÕ
-\
-X
-O
-
-P
-M
-N
-I
-K
-J
-[
-L
-S`÷R[C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\AccessBinaryTEST.cs+UnitTests.AccessBinaryTEST.GetAllPersonTEST (BóRÚh
-qøRl
-
-\
-O
-P
-M
-N
-K
-[
-L
-Y
-S÷(UnitTests.AccessBinaryTEST.AddPersonTEST (BóR
-h
-jùRe
-
-
-$
-
-
-&
-/
-%
-
--õ%UnitTests.ClientTEST.RemovePersonTEST (BóRh
-púRk
-f
-l
-‚
-
-{
-y
-z
-
-€
-g
-dò#UnitTests.AccessorXMLTEST.ClearTEST (BóRØQh
-fûRa
-
-
-$
-
-2
-)
-
--õ)UnitTests.ClientTEST.GetPersonByIndexTEST (BóR2h
-cüR^
-
-
-$
-
-
-1
-(
-
-&
--õUnitTests.ClientTEST.ClearTEST (BóR6h
-_ıRZ
-.
-
-
-$
-
-
--õ%UnitTests.ClientTEST.GetAllPersonTEST (BóRúh
-ßşRÙ
-Ã
-¼
-(
-
-Â
-¸
-$
-
-
-Ä
-¿
-À
-
-^ÿRYC:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\ChiefClassTEST.cs&UnitTests.ChiefClassTEST.AddPersonTEST (BóRÄh
-«€R¥
-
-‰
-’
-„
-†
-ˆ
-‘
-^RYC:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\AccessorDBTEST.cs)UnitTests.AccessorDBTEST.InsertPersonTEST (BóJ^Ğ”Ğ°Ğ½Ğ½Ñ‹Ğµ Ğ² Ñ‚Ğ°Ğ±Ğ»Ğ¸Ñ†Ğµ ÑƒĞ´Ğ°Ğ»ĞµĞ½Ñ‹
-Ğ”Ğ°Ğ½Ğ½Ñ‹Ğµ Ğ² Ñ‚Ğ°Ğ±Ğ»Ğ¸Ñ†Ğµ ÑƒĞ´Ğ°Ğ»ĞµĞ½Ñ‹
-Rş4h
-|‚Rw
-\
-O
-
-P
-M
-N
-K
-J
-[
-L
-V
-Q
-S÷+UnitTests.AccessBinaryTEST.InsertPersonTEST (BóRh
-oƒRj
-f
-g
-‚
-
-{
-y
-z
-€
-
-e
-dò#UnitTests.AccessorXMLTEST.CountTEST (BóRTh
-{„Rv
-Ã
-¼
-(
-
-Ç
-¸
-$
-
-
-Ä
-¿
-À
-
-ÿUnitTests.ChiefClassTEST.Clear (BóRÄh
-[…RV
-
-
-$
-
-3
-*
-
--õUnitTests.ClientTEST.CountTEST (BóRJh
-s†Rn
-f
-g
-‚
-
-{
-y
-z
-€
-
-`
-dò'UnitTests.AccessorXMLTEST.AddPersonTEST (BóRRh
-Ë‡RÅ
-
-‰
-•
-„
-‡
-‘
-)UnitTests.AccessorDBTEST.GetAllPersonTEST (BóJ^Ğ”Ğ°Ğ½Ğ½Ñ‹Ğµ Ğ² Ñ‚Ğ°Ğ±Ğ»Ğ¸Ñ†Ğµ ÑƒĞ´Ğ°Ğ»ĞµĞ½Ñ‹
-Ğ”Ğ°Ğ½Ğ½Ñ‹Ğµ Ğ² Ñ‚Ğ°Ğ±Ğ»Ğ¸Ñ†Ğµ ÑƒĞ´Ğ°Ğ»ĞµĞ½Ñ‹
-R¶Bh
-¹ˆR³
-
-‰
-
-„
-ˆ
-‘
-&UnitTests.AccessorDBTEST.AddPersonTEST 2  Expected: 2
-  But was:  1
-:Ğ   Ğ² NUnit.Framework.Assert.That(Object actual, IResolveConstraint expression, String message, Object[] args)
-   Ğ² NUnit.Framework.Assert.AreEqual(Int32 expected, Int32 actual)
-   Ğ² UnitTests.AccessorDBTEST.AddPersonTEST() Ğ² c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\AccessorDBTEST.cs:ÑÑ‚Ñ€Ğ¾ĞºĞ° 43BóJ^Ğ”Ğ°Ğ½Ğ½Ñ‹Ğµ Ğ² Ñ‚Ğ°Ğ±Ğ»Ğ¸Ñ†Ğµ ÑƒĞ´Ğ°Ğ»ĞµĞ½Ñ‹
-Ğ”Ğ°Ğ½Ğ½Ñ‹Ğµ Ğ² Ñ‚Ğ°Ğ±Ğ»Ğ¸Ñ†Ğµ ÑƒĞ´Ğ°Ğ»ĞµĞ½Ñ‹
-R„<h
-„‰R
-f
-k
-‚
-
-{
-y
-
-¡
-z
-
-g
-
-dò.UnitTests.AccessorXMLTEST.GetPersonByIndexTEST (BóRÖMh
-xŠRs
-
-\
-O
-P
-M
-N
-K
-[
-L
-T
-H
-S÷+UnitTests.AccessBinaryTEST.RemovePersonTEST (BóR*h
-‹R‰
-Ã
-¼
-(
-
-Å
-
-º
-'
-
-
-
-Ä
-¿
-À
-
-ÿ)UnitTests.ChiefClassTEST.InsertPERSONTEST (BóRÚh
-ĞŒRÊ
-
-‰
-„
-ˆ
-‘
-”
-…
-)UnitTests.AccessorDBTEST.RemovePersonTEST (BóJ^Ğ”Ğ°Ğ½Ğ½Ñ‹Ğµ Ğ² Ñ‚Ğ°Ğ±Ğ»Ğ¸Ñ†Ğµ ÑƒĞ´Ğ°Ğ»ĞµĞ½Ñ‹
-Ğ”Ğ°Ğ½Ğ½Ñ‹Ğµ Ğ² Ñ‚Ğ°Ğ±Ğ»Ğ¸Ñ†Ğµ ÑƒĞ´Ğ°Ğ»ĞµĞ½Ñ‹
-Rœh
-†R€
-
-¡
-f
-j
-‚
-
-{
-y
-z
-€
-
-g
-
-dò*UnitTests.AccessorXMLTEST.GetAllPersonTEST (BóR–&h
-tRo
-\
-O
-
-P
-M
-N
-J
-[
-L
-W
-S÷+UnitTests.AccessBinaryTEST.GetPersonByIndex (BóRh
-{Rv
-f
-g
-‚
-
-{
-y
-z
-€
-
-h
-|
-dò*UnitTests.AccessorXMLTEST.RemovePersonTEST (BóR¤h
-fRa
-
-
-$
-
-
-&
-0
-'
-
--õ!UnitTests.ClientTEST.InsertPerson (BóRh
-”‘R
-Ã
-¼
-(
-
-Á
-¸
-$
-
-¹
-%
-
-
-Ä
-¿
-À
-
-ÿ)UnitTests.ChiefClassTEST.RemovePersonTEST (BóRÚh"’Rz
-“RMyORMx\MyORMx.csprojRc:\users\hp home\documents\visual studio 2012\Projects\MyORMx\MyORMx\MyORMx.csproj ØÊ¸ˆşÿÿÿÿ"j”Re
-óXC:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\UnitTests.csproj ªï›Ë"Ê•RÄ
->–R9MyWinFormProject\MyWinFormProject\MyWinFormProject.csprojwC:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\MyWinFormProject\MyWinFormProject\MyWinFormProject.csproj çÔ˜ûÿÿÿÿ
