@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\HP HomE\Documents\Visual Studio 2010\Projects\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\bin\Debug\EPAM_TASK_1_ATTRIBUTES.exe" total="3" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-03-16" time="15:13:10">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="HP" user="HP HomE" user-domain="HP" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\Users\HP HomE\Documents\Visual Studio 2010\Projects\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\bin\Debug\EPAM_TASK_1_ATTRIBUTES.exe" executed="True" result="Success" success="True" time="0.112" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="EPAM_TASK_1_ATTRIBUTES" executed="True" result="Success" success="True" time="0.090" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TEST" executed="True" result="Success" success="True" time="0.086" asserts="0">
+            <results>
+              <test-case name="EPAM_TASK_1_ATTRIBUTES.TEST.ПоказатьВоЧтоКомпилируетсяTEST" executed="True" result="Success" success="True" time="0.038" asserts="4" />
+              <test-case name="EPAM_TASK_1_ATTRIBUTES.TEST.ПолучитьВладельцаTEST" executed="True" result="Success" success="True" time="0.004" asserts="3" />
+              <test-case name="EPAM_TASK_1_ATTRIBUTES.TEST.ПолучитьИнформациюОКомпанииВладельцеTEST" executed="True" result="Success" success="True" time="0.009" asserts="4" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

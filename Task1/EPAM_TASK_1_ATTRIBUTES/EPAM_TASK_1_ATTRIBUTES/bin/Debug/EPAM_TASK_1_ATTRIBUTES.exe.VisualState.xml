@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1004]C:\Users\HP HomE\Documents\Visual Studio 2010\Projects\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\bin\Debug\EPAM_TASK_1_ATTRIBUTES.exe</TopNode>
+  <SelectedNode>[0-1000]EPAM_TASK_1_ATTRIBUTES.TEST</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1004]C:\Users\HP HomE\Documents\Visual Studio 2010\Projects\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\bin\Debug\EPAM_TASK_1_ATTRIBUTES.exe" Expanded="true" />
+    <Node UniqueName="[0-1005]EPAM_TASK_1_ATTRIBUTES" Expanded="true" />
+    <Node UniqueName="[0-1000]EPAM_TASK_1_ATTRIBUTES.TEST" Expanded="true" />
+  </Nodes>
+</VisualState>

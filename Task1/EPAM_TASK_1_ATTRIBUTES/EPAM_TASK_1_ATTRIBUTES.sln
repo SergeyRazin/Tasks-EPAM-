@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPAM_TASK_1_ATTRIBUTES", "EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES.csproj", "{93D872A7-94FF-45E8-A636-4C0299B8CA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D872A7-94FF-45E8-A636-4C0299B8CA49}.Debug|x86.ActiveCfg = Debug|x86
+		{93D872A7-94FF-45E8-A636-4C0299B8CA49}.Debug|x86.Build.0 = Debug|x86
+		{93D872A7-94FF-45E8-A636-4C0299B8CA49}.Release|x86.ActiveCfg = Release|x86
+		{93D872A7-94FF-45E8-A636-4C0299B8CA49}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

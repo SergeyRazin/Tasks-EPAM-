@@ -1,0 +1,9 @@
+C:\Users\HP HomE\documents\visual studio 2010\Projects\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\obj\x86\Debug\EPAM_TASK_1_ATTRIBUTES.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\documents\visual studio 2010\Projects\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\bin\Debug\EPAM_TASK_1_ATTRIBUTES.exe
+C:\Users\HP HomE\documents\visual studio 2010\Projects\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\bin\Debug\EPAM_TASK_1_ATTRIBUTES.pdb
+C:\Users\HP HomE\documents\visual studio 2010\Projects\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\bin\Debug\nunit.framework.dll
+C:\Users\HP HomE\documents\visual studio 2010\Projects\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\bin\Debug\nunit.framework.xml
+C:\Users\HP HomE\documents\visual studio 2010\Projects\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\obj\x86\Debug\EPAM_TASK_1_ATTRIBUTES.exe
+C:\Users\HP HomE\documents\visual studio 2010\Projects\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\obj\x86\Debug\EPAM_TASK_1_ATTRIBUTES.pdb
+\\Hp\обмен диск н\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\obj\x86\Debug\EPAM_TASK_1_ATTRIBUTES.exe
+\\Hp\обмен диск н\EPAM_TASK_1_ATTRIBUTES\EPAM_TASK_1_ATTRIBUTES\obj\x86\Debug\EPAM_TASK_1_ATTRIBUTES.pdb
