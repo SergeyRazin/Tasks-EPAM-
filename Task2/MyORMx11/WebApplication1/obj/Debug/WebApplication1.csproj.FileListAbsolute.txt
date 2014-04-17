@@ -1,0 +1,21 @@
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\WebApplication1\bin\WebApplication1.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\WebApplication1\bin\WebApplication1.pdb
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\WebApplication1\bin\MyORMx.exe
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\WebApplication1\bin\MyORMx.pdb
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\WebApplication1\bin\App_Data\Database1.sdf
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyORMx\WebApplication1\bin\NLog.config
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyORMx\WebApplication1\bin\NLog.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyORMx\WebApplication1\bin\NLog.xml
+C:\Users\Sergey\Desktop\MyORMx11\WebApplication1\bin\NLog.config
+C:\Users\Sergey\Desktop\MyORMx11\WebApplication1\bin\App_Data\Database1.sdf
+C:\Users\Sergey\Desktop\MyORMx11\WebApplication1\bin\WebApplication1.dll
+C:\Users\Sergey\Desktop\MyORMx11\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Sergey\Desktop\MyORMx11\WebApplication1\bin\MyORMx.exe
+C:\Users\Sergey\Desktop\MyORMx11\WebApplication1\bin\MyORMx.pdb
+C:\Users\Sergey\Desktop\MyORMx11\WebApplication1\bin\NLog.xml
+C:\Users\Sergey\Desktop\MyORMx11\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\MyORMx11\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Sergey\Desktop\MyORMx11\WebApplication1\obj\Debug\WebApplication1.pdb
