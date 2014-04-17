@@ -1,0 +1,18 @@
+2014-04-16 11:07:27.9134|ERROR|MyWinFormProject.Form1|Данные для строки или столбца отсутствуют.
+2014-04-16 11:07:27.9484|ERROR|MyWinFormProject.Form1|   в System.Data.SqlServerCe.SqlCeDataReader.IsDBNull(Int32 ordinal)
+   в System.Data.SqlServerCe.SqlCeDataReader.GetString(Int32 ordinal)
+   в MyORMx.AccessorsClasses.AccessorDB.GetPersonByIndex(Int32 index) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\MyORMx\AccessorsClasses\AccessorDB.cs:строка 105
+   в MyORMx.Client.GetPersonByIndex(Int32 index, IAccessor accessor) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\MyORMx\Client.cs:строка 38
+   в MyWinFormProject.Form1.GetPersonByIndex() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\MyWinFormProject\MyWinFormProject\Form1.cs:строка 208
+2014-04-16 11:07:35.4832|ERROR|MyWinFormProject.Form1|Данные для строки или столбца отсутствуют.
+2014-04-16 11:07:35.4832|ERROR|MyWinFormProject.Form1|   в System.Data.SqlServerCe.SqlCeDataReader.IsDBNull(Int32 ordinal)
+   в System.Data.SqlServerCe.SqlCeDataReader.GetString(Int32 ordinal)
+   в MyORMx.AccessorsClasses.AccessorDB.GetPersonByIndex(Int32 index) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\MyORMx\AccessorsClasses\AccessorDB.cs:строка 105
+   в MyORMx.Client.GetPersonByIndex(Int32 index, IAccessor accessor) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\MyORMx\Client.cs:строка 38
+   в MyWinFormProject.Form1.GetPersonByIndex() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\MyWinFormProject\MyWinFormProject\Form1.cs:строка 208
+2014-04-16 11:07:39.9185|ERROR|MyWinFormProject.Form1|Данные для строки или столбца отсутствуют.
+2014-04-16 11:07:39.9185|ERROR|MyWinFormProject.Form1|   в System.Data.SqlServerCe.SqlCeDataReader.IsDBNull(Int32 ordinal)
+   в System.Data.SqlServerCe.SqlCeDataReader.GetString(Int32 ordinal)
+   в MyORMx.AccessorsClasses.AccessorDB.GetPersonByIndex(Int32 index) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\MyORMx\AccessorsClasses\AccessorDB.cs:строка 105
+   в MyORMx.Client.GetPersonByIndex(Int32 index, IAccessor accessor) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\MyORMx\Client.cs:строка 38
+   в MyWinFormProject.Form1.GetPersonByIndex() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\MyWinFormProject\MyWinFormProject\Form1.cs:строка 208
