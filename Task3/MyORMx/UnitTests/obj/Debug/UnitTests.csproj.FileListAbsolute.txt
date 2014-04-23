@@ -1,0 +1,30 @@
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\bin\Debug\MyORMx.exe
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\bin\Debug\nunit.mocks.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\bin\Debug\MyORMx.pdb
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORMx\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyORMx\UnitTests\bin\Debug\Moq.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyORMx\UnitTests\bin\Debug\Moq.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyORMx\UnitTests\bin\Debug\Moq.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyORMx\UnitTests\bin\Debug\Source\Database1.sdf
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyORMx\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\bin\Debug\Source\Database1.sdf
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\bin\Debug\Moq.dll
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\bin\Debug\MyORMx.exe
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\bin\Debug\nunit.mocks.dll
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\bin\Debug\MyORMx.pdb
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\bin\Debug\Moq.pdb
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\bin\Debug\Moq.xml
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\HP HomE\Desktop\Task3\MyORMx\UnitTests\obj\Debug\UnitTests.pdb

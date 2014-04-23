@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Хранилище xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <L>
+    <Person>
+      <Name>Marge</Name>
+      <Age>40</Age>
+    </Person>
+    <Person>
+      <Name>Marge</Name>
+      <Age>40</Age>
+    </Person>
+    <Person>
+      <Name>Marge</Name>
+      <Age>40</Age>
+    </Person>
+  </L>
+</Хранилище>

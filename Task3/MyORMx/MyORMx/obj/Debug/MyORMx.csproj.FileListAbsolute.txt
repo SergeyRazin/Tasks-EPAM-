@@ -1,0 +1,14 @@
+c:\users\hp home\documents\visual studio 2012\Projects\MyORMx\MyORMx\bin\Debug\MyORMx.exe.config
+c:\users\hp home\documents\visual studio 2012\Projects\MyORMx\MyORMx\bin\Debug\MyORMx.exe
+c:\users\hp home\documents\visual studio 2012\Projects\MyORMx\MyORMx\bin\Debug\MyORMx.pdb
+c:\users\hp home\documents\visual studio 2012\Projects\MyORMx\MyORMx\obj\Debug\MyORMx.exe
+c:\users\hp home\documents\visual studio 2012\Projects\MyORMx\MyORMx\obj\Debug\MyORMx.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyORMx\MyORMx\bin\Debug\Source\Database1.sdf
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyORMx\MyORMx\obj\Debug\MyORMx.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\Task3\MyORMx\MyORMx\bin\Debug\Source\Database1.sdf
+C:\Users\HP HomE\Desktop\Task3\MyORMx\MyORMx\bin\Debug\MyORMx.exe.config
+C:\Users\HP HomE\Desktop\Task3\MyORMx\MyORMx\bin\Debug\MyORMx.exe
+C:\Users\HP HomE\Desktop\Task3\MyORMx\MyORMx\bin\Debug\MyORMx.pdb
+C:\Users\HP HomE\Desktop\Task3\MyORMx\MyORMx\obj\Debug\MyORMx.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\Task3\MyORMx\MyORMx\obj\Debug\MyORMx.exe
+C:\Users\HP HomE\Desktop\Task3\MyORMx\MyORMx\obj\Debug\MyORMx.pdb

@@ -1,0 +1,15 @@
+c:\users\hp home\documents\visual studio 2012\Projects\MyORM\MyORM\bin\Debug\MyORM.exe.config
+c:\users\hp home\documents\visual studio 2012\Projects\MyORM\MyORM\bin\Debug\MyORM.exe
+c:\users\hp home\documents\visual studio 2012\Projects\MyORM\MyORM\bin\Debug\MyORM.pdb
+c:\users\hp home\documents\visual studio 2012\Projects\MyORM\MyORM\obj\Debug\MyORM.exe
+c:\users\hp home\documents\visual studio 2012\Projects\MyORM\MyORM\obj\Debug\MyORM.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyORM\MyORM\obj\Debug\MyORM.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyORM\MyORM\bin\Debug\Database1.sdf
+C:\Users\HP HomE\Desktop\Task2\MyORM\MyORM\bin\Debug\MyORM.exe.config
+C:\Users\HP HomE\Desktop\Task2\MyORM\MyORM\obj\Debug\MyORM.exe
+C:\Users\HP HomE\Desktop\Task2\MyORM\MyORM\obj\Debug\MyORM.pdb
+C:\Users\HP HomE\Desktop\Task2\MyORM\MyORM\bin\Debug\Database1.sdf
+C:\Users\HP HomE\Desktop\Task2\MyORM\MyORM\bin\Debug\MyORM.exe
+C:\Users\HP HomE\Desktop\Task2\MyORM\MyORM\bin\Debug\MyORM.pdb
+C:\Users\HP HomE\Desktop\Task2\MyORM\MyORM\bin\Debug\nunit.framework.dll
+C:\Users\HP HomE\Desktop\Task2\MyORM\MyORM\obj\Debug\MyORM.csprojResolveAssemblyReference.cache
