@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\TEST\bin\Debug\TEST.dll" total="22" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-04-20" time="19:36:25">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="HP" user="HP HomE" user-domain="HP" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\TEST\bin\Debug\TEST.dll" executed="True" result="Success" success="True" time="3.603" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TEST" executed="True" result="Success" success="True" time="3.581" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="AccessorBinarryTEST" executed="True" result="Success" success="True" time="0.117" asserts="0">
+            <results>
+              <test-case name="TEST.AccessorBinarryTEST.AddPersonTEST" executed="True" result="Success" success="True" time="0.050" asserts="2" />
+              <test-case name="TEST.AccessorBinarryTEST.GetAllPersonTEST" executed="True" result="Success" success="True" time="0.008" asserts="5" />
+              <test-case name="TEST.AccessorBinarryTEST.GetPersonByIndex" executed="True" result="Success" success="True" time="0.005" asserts="1" />
+              <test-case name="TEST.AccessorBinarryTEST.InsertPersonTEST" executed="True" result="Success" success="True" time="0.005" asserts="2" />
+              <test-case name="TEST.AccessorBinarryTEST.RemovePersonTEST" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="AccessorMemoryTEST" executed="True" result="Success" success="True" time="0.035" asserts="0">
+            <results>
+              <test-case name="TEST.AccessorMemoryTEST.AddPersonTEST" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="TEST.AccessorMemoryTEST.ClearTEST" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+              <test-case name="TEST.AccessorMemoryTEST.CountTEST" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TEST.AccessorMemoryTEST.GetAllPersonTEST" executed="True" result="Success" success="True" time="0.007" asserts="1" />
+              <test-case name="TEST.AccessorMemoryTEST.InsertPerson" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="TEST.AccessorMemoryTEST.RemovePersonTEST" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="TEST.AccessorMemoryTEST.StorageTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="AccessorXMLTEST" executed="True" result="Success" success="True" time="1.558" asserts="0">
+            <results>
+              <test-case name="TEST.AccessorXMLTEST.AddPersonTEST" executed="True" result="Success" success="True" time="1.008" asserts="1" />
+              <test-case name="TEST.AccessorXMLTEST.ClearTEST" executed="True" result="Success" success="True" time="0.022" asserts="1" />
+              <test-case name="TEST.AccessorXMLTEST.CountTEST" executed="True" result="Success" success="True" time="0.035" asserts="1" />
+              <test-case name="TEST.AccessorXMLTEST.GetAllPersonTEST" executed="True" result="Success" success="True" time="0.198" asserts="5" />
+              <test-case name="TEST.AccessorXMLTEST.GetPersonByIndexTEST" executed="True" result="Success" success="True" time="0.063" asserts="1" />
+              <test-case name="TEST.AccessorXMLTEST.InsertPersonTEST" executed="True" result="Success" success="True" time="0.150" asserts="1" />
+              <test-case name="TEST.AccessorXMLTEST.RemovePersonTEST" executed="True" result="Success" success="True" time="0.057" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="MyORMTEST" executed="True" result="Success" success="True" time="1.853" asserts="0">
+            <results>
+              <test-case name="TEST.MyORMTEST.AddPersonTEST" executed="True" result="Success" success="True" time="0.885" asserts="1" />
+              <test-case name="TEST.MyORMTEST.GetAllPersonTEST" executed="True" result="Success" success="True" time="0.437" asserts="5" />
+              <test-case name="TEST.MyORMTEST.RemovePersonTEST" executed="True" result="Success" success="True" time="0.513" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

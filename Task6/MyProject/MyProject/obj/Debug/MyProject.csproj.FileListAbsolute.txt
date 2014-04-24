@@ -1,0 +1,7 @@
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\MyProject\bin\Debug\MyProject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\MyProject\bin\Debug\Ninject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\MyProject\bin\Debug\Ninject.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache

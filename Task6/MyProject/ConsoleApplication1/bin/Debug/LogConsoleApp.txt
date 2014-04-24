@@ -1,0 +1,4 @@
+2014-04-21 08:34:23.5064|ERROR|ConsoleApplication1.Chief|тест инфа добавлена
+2014-04-21 08:36:23.5295|ERROR|ConsoleApplication1.Chief|тест инфа добавлена
+2014-04-21 08:50:08.5893|ERROR|ConsoleApplication1.Chief|тест инфа добавлена
+2014-04-21 08:54:27.2112|ERROR|ConsoleApplication1.Chief|тест инфа добавлена

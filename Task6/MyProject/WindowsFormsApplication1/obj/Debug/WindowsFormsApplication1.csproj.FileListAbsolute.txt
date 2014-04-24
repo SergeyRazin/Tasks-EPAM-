@@ -1,0 +1,34 @@
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\bin\Debug\App_Data\WinFormsDB.sdf
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\bin\Debug\NLog.config
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\bin\Debug\MyProject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\bin\Debug\NLog.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\bin\Debug\MyProject.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\bin\Debug\NLog.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\bin\Debug\Ninject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WindowsFormsApplication1\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\bin\Debug\App_Data\WinFormsDB.sdf
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\bin\Debug\NLog.config
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\bin\Debug\MyProject.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\bin\Debug\NLog.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\bin\Debug\MyProject.pdb
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\bin\Debug\NLog.xml
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

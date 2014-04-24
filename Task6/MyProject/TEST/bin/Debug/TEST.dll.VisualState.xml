@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1026]C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\TEST\bin\Debug\TEST.dll</TopNode>
+  <SelectedNode>[0-1026]C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\TEST\bin\Debug\TEST.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1026]C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\TEST\bin\Debug\TEST.dll" Expanded="true" />
+    <Node UniqueName="[0-1027]TEST" Expanded="true" />
+    <Node UniqueName="[0-1000]TEST.AccessorBinarryTEST" Expanded="true" />
+    <Node UniqueName="[0-1006]TEST.AccessorMemoryTEST" Expanded="true" />
+    <Node UniqueName="[0-1014]TEST.AccessorXMLTEST" Expanded="true" />
+    <Node UniqueName="[0-1022]TEST.MyORMTEST" Expanded="true" />
+  </Nodes>
+</VisualState>

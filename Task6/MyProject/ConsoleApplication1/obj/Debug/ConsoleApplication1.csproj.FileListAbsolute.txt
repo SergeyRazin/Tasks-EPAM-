@@ -1,0 +1,28 @@
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\bin\Debug\NLog.config
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\bin\Debug\App_Data\ConsoleDB.sdf
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\bin\Debug\MyProject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\bin\Debug\NLog.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\bin\Debug\MyProject.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\bin\Debug\NLog.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\bin\Debug\Ninject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\ConsoleApplication1\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\bin\Debug\NLog.config
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\bin\Debug\App_Data\ConsoleDB.sdf
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\bin\Debug\MyProject.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\bin\Debug\NLog.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\bin\Debug\MyProject.pdb
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\bin\Debug\NLog.xml
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

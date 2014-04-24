@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\TEST\bin\Debug\MyProjectEPAMtest.nunit</TopNode>
+  <SelectedNode>[0-1007]TEST.AccessorDBTEST</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\TEST\bin\Debug\MyProjectEPAMtest.nunit" Expanded="true" />
+    <Node UniqueName="[0-1028]C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\TEST\bin\Debug\TEST.dll" Expanded="true" />
+    <Node UniqueName="[0-1029]TEST" Expanded="true" />
+    <Node UniqueName="[0-1001]TEST.AccessorBinarryTEST" Expanded="true" />
+    <Node UniqueName="[0-1007]TEST.AccessorDBTEST" Expanded="true" />
+    <Node UniqueName="[0-1012]TEST.AccessorMemoryTEST" Expanded="true" />
+    <Node UniqueName="[0-1020]TEST.AccessorXMLTEST" Expanded="true" />
+  </Nodes>
+</VisualState>

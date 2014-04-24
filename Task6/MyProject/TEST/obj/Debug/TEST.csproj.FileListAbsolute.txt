@@ -1,0 +1,26 @@
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\bin\Debug\App_Data\Database1.sdf
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\bin\Debug\TEST.dll.config
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\bin\Debug\TEST.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\bin\Debug\TEST.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\bin\Debug\MyProject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\bin\Debug\nunit.framework.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\bin\Debug\MyProject.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\bin\Debug\nunit.framework.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\obj\Debug\TEST.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\obj\Debug\TEST.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\bin\Debug\Ninject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\TEST\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\bin\Debug\App_Data\Database1.sdf
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\bin\Debug\TEST.dll.config
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\bin\Debug\TEST.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\bin\Debug\TEST.pdb
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\bin\Debug\MyProject.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\bin\Debug\nunit.framework.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\bin\Debug\MyProject.pdb
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\bin\Debug\nunit.framework.xml
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\obj\Debug\TEST.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\TEST\obj\Debug\TEST.pdb

@@ -1,0 +1,68 @@
+2014-04-21 11:42:03.8880|ERROR|WindowsFormsApplication1.Form1|Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = ..\..\App_Data\ConsoleDB.sdf ]
+2014-04-21 11:42:03.9450|ERROR|WindowsFormsApplication1.Form1|   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в MyProject.AccessorsClasses.AccessorDB.GetAllPerson() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\AccessorsClasses\AccessorDB.cs:строка 196
+   в MyProject.Client.GetAllPerson(IAccessor accessor0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\Client.cs:строка 27
+   в WindowsFormsApplication1.Form1.ShowAll() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\WindowsFormsApplication1\Form1.cs:строка 156
+2014-04-21 11:42:59.2343|ERROR|WindowsFormsApplication1.Form1|Указанная таблица не существует. [ Person ]
+2014-04-21 11:42:59.2943|ERROR|WindowsFormsApplication1.Form1|   в System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   в System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   в System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   в System.Data.SqlServerCe.SqlCeCommand.ExecuteReader()
+   в MyProject.AccessorsClasses.AccessorDB.GetAllPerson() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\AccessorsClasses\AccessorDB.cs:строка 198
+   в MyProject.Client.GetAllPerson(IAccessor accessor0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\Client.cs:строка 27
+   в WindowsFormsApplication1.Form1.ShowAll() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\WindowsFormsApplication1\Form1.cs:строка 156
+2014-04-21 12:11:06.5661|ERROR|WindowsFormsApplication1.Form1|Данные для строки или столбца отсутствуют.
+2014-04-21 12:11:06.6332|ERROR|WindowsFormsApplication1.Form1|   в System.Data.SqlServerCe.SqlCeDataReader.IsDBNull(Int32 ordinal)
+   в System.Data.SqlServerCe.SqlCeDataReader.GetInt32(Int32 ordinal)
+   в MyProject.AccessorsClasses.AccessorDB.GetPersonByIndex(Int32 index0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\AccessorsClasses\AccessorDB.cs:строка 243
+   в MyProject.Client.GetPersonByIndex(Int32 index0, IAccessor accessor0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\Client.cs:строка 32
+   в WindowsFormsApplication1.Form1.GetPersonByIndex() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\WindowsFormsApplication1\Form1.cs:строка 211
+2014-04-21 13:00:52.6432|ERROR|WindowsFormsApplication1.Form1|Данные для строки или столбца отсутствуют.
+2014-04-21 13:00:52.7102|ERROR|WindowsFormsApplication1.Form1|   в System.Data.SqlServerCe.SqlCeDataReader.IsDBNull(Int32 ordinal)
+   в System.Data.SqlServerCe.SqlCeDataReader.GetInt32(Int32 ordinal)
+   в MyProject.AccessorsClasses.AccessorDB.GetPersonByIndex(Int32 index0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\AccessorsClasses\AccessorDB.cs:строка 243
+   в MyProject.Client.GetPersonByIndex(Int32 index0, IAccessor accessor0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\Client.cs:строка 32
+   в WindowsFormsApplication1.Form1.GetPersonByIndex() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\WindowsFormsApplication1\Form1.cs:строка 231
+2014-04-21 13:09:42.7018|ERROR|WindowsFormsApplication1.Form1|Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+2014-04-21 13:09:42.7919|ERROR|WindowsFormsApplication1.Form1|   в System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в MyProject.AccessorsClasses.AccessorBinarry.UpdatePerson(Int32 index0, String name0, Int32 age0, String phone0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\AccessorsClasses\AccessorBinarry.cs:строка 114
+   в MyProject.Client.UpdatePerson(Int32 index0, String name0, Int32 age0, String phone0, IAccessor accessor0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\Client.cs:строка 22
+   в WindowsFormsApplication1.Form1.UpdatePerson() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\WindowsFormsApplication1\Form1.cs:строка 166
+2014-04-21 13:27:36.4561|ERROR|WindowsFormsApplication1.Form1|Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+2014-04-21 13:27:36.5281|ERROR|WindowsFormsApplication1.Form1|   в System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в MyProject.AccessorsClasses.AccessorBinarry.UpdatePerson(Int32 index0, String name0, Int32 age0, String phone0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\AccessorsClasses\AccessorBinarry.cs:строка 114
+   в MyProject.Client.UpdatePerson(Int32 index0, String name0, Int32 age0, String phone0, IAccessor accessor0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\Client.cs:строка 22
+   в WindowsFormsApplication1.Form1.UpdatePerson() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\WindowsFormsApplication1\Form1.cs:строка 165
+2014-04-21 13:29:57.1229|ERROR|WindowsFormsApplication1.Form1|Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+2014-04-21 13:29:57.1949|ERROR|WindowsFormsApplication1.Form1|   в System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в MyProject.AccessorsClasses.AccessorBinarry.UpdatePerson(Int32 index0, String name0, Int32 age0, String phone0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\AccessorsClasses\AccessorBinarry.cs:строка 114
+   в MyProject.Client.UpdatePerson(Int32 index0, String name0, Int32 age0, String phone0, IAccessor accessor0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\Client.cs:строка 22
+   в WindowsFormsApplication1.Form1.UpdatePerson() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\WindowsFormsApplication1\Form1.cs:строка 163
+2014-04-21 13:30:28.9599|ERROR|WindowsFormsApplication1.Form1|Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+2014-04-21 13:30:29.0320|ERROR|WindowsFormsApplication1.Form1|   в System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в MyProject.AccessorsClasses.AccessorBinarry.UpdatePerson(Int32 index0, String name0, Int32 age0, String phone0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\AccessorsClasses\AccessorBinarry.cs:строка 114
+   в MyProject.Client.UpdatePerson(Int32 index0, String name0, Int32 age0, String phone0, IAccessor accessor0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\Client.cs:строка 22
+   в WindowsFormsApplication1.Form1.UpdatePerson() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\WindowsFormsApplication1\Form1.cs:строка 163
+2014-04-21 13:32:49.5089|ERROR|WindowsFormsApplication1.Form1|Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+2014-04-21 13:32:49.5700|ERROR|WindowsFormsApplication1.Form1|   в System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в MyProject.AccessorsClasses.AccessorBinarry.UpdatePerson(Int32 index0, String name0, Int32 age0, String phone0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\AccessorsClasses\AccessorBinarry.cs:строка 114
+   в MyProject.Client.UpdatePerson(Int32 index0, String name0, Int32 age0, String phone0, IAccessor accessor0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\Client.cs:строка 22
+   в WindowsFormsApplication1.Form1.UpdatePerson() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\WindowsFormsApplication1\Form1.cs:строка 163
+2014-04-21 13:33:33.8504|ERROR|WindowsFormsApplication1.Form1|Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+2014-04-21 13:33:33.9215|ERROR|WindowsFormsApplication1.Form1|   в System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в MyProject.AccessorsClasses.AccessorBinarry.UpdatePerson(Int32 index0, String name0, Int32 age0, String phone0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\AccessorsClasses\AccessorBinarry.cs:строка 114
+   в MyProject.Client.UpdatePerson(Int32 index0, String name0, Int32 age0, String phone0, IAccessor accessor0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\MyProject\Client.cs:строка 22
+   в WindowsFormsApplication1.Form1.UpdatePerson() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyProject\WindowsFormsApplication1\Form1.cs:строка 163

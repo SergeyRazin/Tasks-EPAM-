@@ -1,0 +1,24 @@
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WebApplication1\bin\NLog.config
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WebApplication1\bin\WebApplication1.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WebApplication1\bin\WebApplication1.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WebApplication1\bin\MyProject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WebApplication1\bin\NLog.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WebApplication1\bin\MyProject.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WebApplication1\bin\NLog.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WebApplication1\bin\Ninject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyProject\WebApplication1\bin\Ninject.xml
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WebApplication1\bin\NLog.config
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WebApplication1\bin\WebApplication1.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WebApplication1\bin\WebApplication1.pdb
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WebApplication1\bin\MyProject.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WebApplication1\bin\Ninject.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WebApplication1\bin\NLog.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WebApplication1\bin\MyProject.pdb
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WebApplication1\bin\Ninject.xml
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WebApplication1\bin\NLog.xml
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\HP HomE\Desktop\ДЛЯ ОТПРАВКИ В EPAM\Task6\MyProject\WebApplication1\obj\Debug\WebApplication1.pdb
