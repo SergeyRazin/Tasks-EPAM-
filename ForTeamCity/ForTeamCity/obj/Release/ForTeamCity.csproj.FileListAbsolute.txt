@@ -1,0 +1,6 @@
+C:\Users\HP HomE\Desktop\11\trunk\ForTeamCity\ForTeamCity\bin\Release\ForTeamCity.exe.config
+C:\Users\HP HomE\Desktop\11\trunk\ForTeamCity\ForTeamCity\bin\Release\ForTeamCity.exe
+C:\Users\HP HomE\Desktop\11\trunk\ForTeamCity\ForTeamCity\bin\Release\ForTeamCity.pdb
+C:\Users\HP HomE\Desktop\11\trunk\ForTeamCity\ForTeamCity\obj\Release\ForTeamCity.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\11\trunk\ForTeamCity\ForTeamCity\obj\Release\ForTeamCity.exe
+C:\Users\HP HomE\Desktop\11\trunk\ForTeamCity\ForTeamCity\obj\Release\ForTeamCity.pdb
