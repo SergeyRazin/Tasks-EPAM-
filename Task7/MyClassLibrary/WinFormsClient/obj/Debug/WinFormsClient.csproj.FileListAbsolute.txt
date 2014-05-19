@@ -15,3 +15,6 @@ C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsCl
 C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.Form1.resources
 C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
 C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.Cache
+C:\Users\HP HomE\Desktop\11\trunk\Task7\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.exe.config
+C:\Users\HP HomE\Desktop\11\trunk\Task7\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.exe
+C:\Users\HP HomE\Desktop\11\trunk\Task7\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.pdb
