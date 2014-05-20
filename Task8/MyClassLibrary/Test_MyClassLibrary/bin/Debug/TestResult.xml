@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Test_MyClassLibrary.dll" total="53" errors="2" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-05-10" time="16:09:19">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="HP" user="HP HomE" user-domain="HP" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Test_MyClassLibrary.dll" executed="True" result="Failure" success="False" time="0.964" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Test_MyClassLibrary" executed="True" result="Failure" success="False" time="0.946" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test_Accessors" executed="True" result="Failure" success="False" time="0.929" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="Test_Accessor_XML" executed="True" result="Success" success="True" time="0.140" asserts="0">
+                <results>
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_AccessorXML_AddOilfield_if_oilfield_with_this_name_olredy_exists" executed="True" result="Success" success="True" time="0.029" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_AccessorXML_AddOilfield_Normal" executed="True" result="Success" success="True" time="0.013" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_AccessorXML_AddWell_if_Oilfield_not_found" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_AccessorXML_AddWell_Normal" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_AccessorXML_RemoveOilfield_if_index_not_found" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_AccessorXML_RemoveOilfield_Normal" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_CountOilfield" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_CountWells" executed="True" result="Success" success="True" time="0.013" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_CountWellsInOilfields" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_CountWellsInOilfields_if_index_notFound" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_GetAllOilfield" executed="True" result="Success" success="True" time="0.001" asserts="5" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_GetNameByIndex_if_index_notFound" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_GetNameByIndex_Normal" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_GetOilfieldByIndex_if_index_notFound" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_GetOilfieldByIndex_Normal" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_RemoveWell_if_number_well_not_found" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_RemoveWell_if_Oilfield_Normal" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_RemoveWell_if_Oilfield_not_found" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_Update_Oilfield_if_indexOilfield_not_found" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_Update_Oilfield_if_newName_alredy_exists" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_Accessor_XML.Test_Update_Oilfield_Normal" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="Test_AccessorBinary" executed="True" result="Success" success="True" time="0.047" asserts="0">
+                <results>
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_AccesosrBinary_AddWell_if_Oilfield_With_this_Name_Alredy_Exists" executed="True" result="Success" success="True" time="0.004" asserts="2" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_AccessorBinary_AddWell_Normal" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_AccessorBinary_RemoveOilfield_Normal" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_AccessorBinary_RemoveOilfild_if_index_not_found" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_AccessorBinary_UpdateOilfield_if_Oilfield_With_this_Name_Alredy_Exists" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_AccessorBinary_UpdateOIlfield_Normal" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_CountOilfield" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_CountWells" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_CountWellsInOilfield_if_index_not_found" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_CountWellsInOilfield_Normal" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_GetAllOilfield" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_GetNameByIndex_if_index_not_found" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_GetNameByIndex_Normal" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_GetOilfieldByIndex_if_this_index_not_found" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorBinary.Test_GetOilfieldByIndex_Normal" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="Test_AccessorDB" executed="True" result="Failure" success="False" time="0.711" asserts="0">
+                <results>
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_AddOIlfield" executed="True" result="Success" success="True" time="0.424" asserts="0" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_AddWell" executed="True" result="Success" success="True" time="0.005" asserts="0" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_Clear" executed="True" result="Error" success="False" time="0.176" asserts="0">
+                    <failure>
+                      <message><![CDATA[TypeMock.TypeMockException : 
+*** Typemock Isolator is currently disabled. Enable using the following:
+
+ * Within Visual Studio: 
+   - Use Typemock Smart Runner  
+   - For other runners, Choose Typemock Menu and click "Enable mocking for 3rd party runners"
+ 
+ * To run Typemock Isolator as part of an automated process you can:
+    - run tests via TMockRunner.exe command line tool
+    - use 'TypeMockStart' tasks for MSBuild or NAnt
+ 
+For more information consult the documentation (see 'Running Unit Tests in an Automated Build')]]></message>
+                      <stack-trace><![CDATA[в TypeMock.InterceptorsWrapper.VerifyInterceptorsIsLoaded()
+в gy.e()
+в TypeMock.MockManager.Init(Boolean collectAllCalls)
+в g9.CreateFakeInstance[T](Members behavior, Constructor constructorFlag, Constructor baseConstructorFlag, Type baseType, Object[] ctorArgs)
+в g9.Instance[T](Members behavior)
+в Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_Clear() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\Test_Accessors\Test_AccessorDB.cs:строка 262
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_CountOilfield" executed="True" result="Success" success="True" time="0.009" asserts="0" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_CountWells" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_CountWellsInOilfield" executed="True" result="Error" success="False" time="0.002" asserts="0">
+                    <failure>
+                      <message><![CDATA[TypeMock.TypeMockException : 
+*** Typemock Isolator is currently disabled. Enable using the following:
+
+ * Within Visual Studio: 
+   - Use Typemock Smart Runner  
+   - For other runners, Choose Typemock Menu and click "Enable mocking for 3rd party runners"
+ 
+ * To run Typemock Isolator as part of an automated process you can:
+    - run tests via TMockRunner.exe command line tool
+    - use 'TypeMockStart' tasks for MSBuild or NAnt
+ 
+For more information consult the documentation (see 'Running Unit Tests in an Automated Build')]]></message>
+                      <stack-trace><![CDATA[в TypeMock.InterceptorsWrapper.VerifyInterceptorsIsLoaded()
+в gy.e()
+в TypeMock.MockManager.Init(Boolean collectAllCalls)
+в g9.CreateFakeInstance[T](Members behavior, Constructor constructorFlag, Constructor baseConstructorFlag, Type baseType, Object[] ctorArgs)
+в g9.Instance[T](Members behavior)
+в Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_CountWellsInOilfield() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\Test_Accessors\Test_AccessorDB.cs:строка 242
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_GetAllOilfield" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_GetOilfieldByIndex" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_RemoveOilfield" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_RemoweWell" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_UpdateOilfield" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="Test_AccessorMemory" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                <results>
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorMemory.Test_AccessorMemory_AddOilfield" executed="True" result="Success" success="True" time="0.003" asserts="4" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorMemory.Test_AccessorMemory_AddWell" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorMemory.Test_AccessorMemory_Constructor" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Test_MyClassLibrary.Test_Accessors.Test_AccessorMemory.Test_AccessorMemory_RemoveOilfield" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite type="Namespace" name="Test_DataClasses" executed="True" result="Success" success="True" time="0.002" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="Test_Well" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="Test_MyClassLibrary.Test_DataClasses.Test_Well.Test_Well_Constructor" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="Test_Oilfield" executed="True" result="Success" success="True" time="0.001" asserts="0">
+            <results>
+              <test-case name="Test_MyClassLibrary.Test_Oilfield.Test_Oilfield_Constructor" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

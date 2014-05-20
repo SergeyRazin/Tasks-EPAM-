@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfOilfield xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Oilfield>
+    <Wells>
+      <Well>
+        <Number>134</Number>
+        <Debit>30</Debit>
+        <Pump>ШГН</Pump>
+      </Well>
+      <Well>
+        <Number>44</Number>
+        <Debit>30</Debit>
+        <Pump>ЭЦН-30-1500</Pump>
+      </Well>
+    </Wells>
+    <Index>0</Index>
+    <Name>Красноярское</Name>
+    <OilReserves>2222</OilReserves>
+  </Oilfield>
+  <Oilfield>
+    <Wells>
+      <Well>
+        <Number>33</Number>
+        <Debit>10</Debit>
+        <Pump>ЭЦН</Pump>
+      </Well>
+    </Wells>
+    <Index>0</Index>
+    <Name>Каменское</Name>
+    <OilReserves>1111</OilReserves>
+  </Oilfield>
+</ArrayOfOilfield>

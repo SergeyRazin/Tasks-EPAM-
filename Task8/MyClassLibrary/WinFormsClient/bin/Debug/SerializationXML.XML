@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfOilfield xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Oilfield>
+    <Wells>
+      <Well>
+        <Number>22</Number>
+        <Debit>70</Debit>
+        <Pump>ЭЦН-80</Pump>
+      </Well>
+      <Well>
+        <Number>701</Number>
+        <Debit>70</Debit>
+        <Pump>ЭЦН-80</Pump>
+      </Well>
+    </Wells>
+    <Index>0</Index>
+    <Name>Алакаевское</Name>
+    <OilReserves>4444</OilReserves>
+  </Oilfield>
+</ArrayOfOilfield>
