@@ -1,9 +1,0 @@
-c:\users\hp home\documents\visual studio 2012\Projects\ForTeamCity\ForTeamCity\bin\Debug\ForTeamCity.exe.config
-c:\users\hp home\documents\visual studio 2012\Projects\ForTeamCity\ForTeamCity\bin\Debug\ForTeamCity.exe
-c:\users\hp home\documents\visual studio 2012\Projects\ForTeamCity\ForTeamCity\bin\Debug\ForTeamCity.pdb
-c:\users\hp home\documents\visual studio 2012\Projects\ForTeamCity\ForTeamCity\obj\Debug\ForTeamCity.csprojResolveAssemblyReference.cache
-c:\users\hp home\documents\visual studio 2012\Projects\ForTeamCity\ForTeamCity\obj\Debug\ForTeamCity.exe
-c:\users\hp home\documents\visual studio 2012\Projects\ForTeamCity\ForTeamCity\obj\Debug\ForTeamCity.pdb
-C:\Users\HP HomE\Desktop\11\trunk\ForTeamCity\ForTeamCity\bin\Debug\ForTeamCity.exe.config
-C:\Users\HP HomE\Desktop\11\trunk\ForTeamCity\ForTeamCity\obj\Debug\ForTeamCity.exe
-C:\Users\HP HomE\Desktop\11\trunk\ForTeamCity\ForTeamCity\obj\Debug\ForTeamCity.pdb
