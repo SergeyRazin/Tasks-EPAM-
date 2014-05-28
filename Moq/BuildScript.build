@@ -1,7 +1,8 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
-    <Configuration></Configuration>
+    <Configuration>Debug</Configuration>
+	<Platform>Any CPU</Platform>
     <SolutionFile>Moq.sln</SolutionFile>
   </PropertyGroup>  
   
