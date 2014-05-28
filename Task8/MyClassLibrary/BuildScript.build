@@ -15,6 +15,6 @@
   </Target>  
 
   <Target Name="Test">
-	<NUnit Assemblies="**Task8\**\Test_MyClassLibrary\bin\debug\*Test*.dll"/>
+	<NUnitTeamCity Assemblies="**Task8\**\Test_MyClassLibrary\bin\debug\*Test*.dll" NUnitVersion="NUnit-2.6.3"/>
   </Target>
 </Project>
