@@ -3,7 +3,6 @@
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
     <Configuration>Debug</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
-    <NUnitPath>$(WorkingFolder)\packages\NUnit.2.6.3\lib</NUnitPath>
   </PropertyGroup>  
   
   <Target Name="BuildAll" DependsOnTargets="Compile;Test" />  
@@ -22,8 +21,6 @@
 		
     </ItemGroup>
 
-    <Message Text="=== RUNNING UNIT TESTS ==="/>
-    <NUnit Assemblies="@(TestAssemblies)" ToolPath="$(NUnitPath)" 
-          DisableShadowCopy="true" />
+    <NUnitTeamCity сборки = "@ (TestAssembly)"  NUnitVersion = "NUnit-2.6.3" />
   </Target>
 </Project>
