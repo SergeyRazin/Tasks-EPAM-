@@ -19,4 +19,13 @@
   <Target Name="SayHello">
      <NUnit Assemblies="**\Test_MyClassLibrary\bin\debug\*Test*.dll"/>
   </Target>
+  
+  <Target Name="build_01">
+     <!-- start tests for NUnit-2.2.10 -->
+     <NUnitTeamCity Assemblies="@(TestAssembly)" NUnitVersion="NUnit-2.2.10"/>
+ 
+     <!-- start tests for NUnit-2.4.6 -->
+     <NUnitTeamCity Assemblies="@(TestAssembly)" NUnitVersion="NUnit-2.4.8"/>
+  </Target>
+  
 </Project>
