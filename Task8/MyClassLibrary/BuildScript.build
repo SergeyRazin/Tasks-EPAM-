@@ -22,6 +22,6 @@
 
     <Message Text="=== RUNNING UNIT TESTS ==="/>
     <NUnit Assemblies="@(TestAssemblies)" ToolPath="$(NUnitPath)" 
-          DisableShadowCopy="true" />
+          DisableShadowCopy="true"  OutputXmlFile="test-results.xml" />
   </Target>
 </Project>
