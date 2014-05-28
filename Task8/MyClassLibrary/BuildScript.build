@@ -9,7 +9,7 @@
 	<NUnitPath>$(teamcity_dotnet_nunitlauncher_msbuild_task)</NUnitPath>
   </PropertyGroup>  
   
-  <Target Name="BuildAll" DependsOnTargets="Compile" />  
+    <Target Name="BuildAll" DependsOnTargets="Compile;Test" />   
 
   <Target Name="Compile">
     <Message Text="=== COMPILING $(Configuration) configuration ===" />
