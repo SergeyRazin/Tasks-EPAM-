@@ -17,7 +17,8 @@
   <Target Name="Test">
     <ItemGroup>
       <TestAssemblies 
-        Include="**\Test_MyClassLibrary\bin\debug\*Test*.dll" />
+        Include="**\Test_MyClassLibrary\bin\debug\*Test*.dll" 
+		Exclude="**\obj\**;**\packages\NUnit.2.6.3\**" />
     </ItemGroup>
 
     <Message Text="=== RUNNING UNIT TESTS ==="/>
