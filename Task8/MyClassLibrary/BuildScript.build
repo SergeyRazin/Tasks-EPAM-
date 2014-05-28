@@ -20,12 +20,12 @@
     <ItemGroup>
       <TestAssemblies 
         Include="**\Test_MyClassLibrary\bin\debug\*Test*.dll" />
-		
-		<Message Text="=== RUNNING UNIT TESTS ==="/>
+    </ItemGroup>
+	
+	<Message Text="=== RUNNING UNIT TESTS ==="/>
 		<NUnit Assemblies="@(TestAssemblies)" ToolPath="$(NUnitPath)" 
           DisableShadowCopy="true" />
-		
-    </ItemGroup>
+	
   </Target>
   
 </Project>
