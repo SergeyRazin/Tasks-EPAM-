@@ -6,7 +6,7 @@
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
     <Configuration>Release</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
-	<NUnitPath>$(teamcity_dotnet_nunitlauncher_msbuild_task)</NUnitPath>
+	<NUnitPath>nnnnnnnnn</NUnitPath>
   </PropertyGroup>  
   
     <Target Name="BuildAll" DependsOnTargets="Compile;Test" />   
