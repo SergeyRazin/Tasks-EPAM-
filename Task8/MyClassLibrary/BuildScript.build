@@ -17,8 +17,8 @@
   <Target Name="Test">
     <ItemGroup>
       <TestAssemblies 
-        Include="**\PeopleFinder.exe" 
-        Exclude="**\obj\**;**\packages\NUnit.2.5.10.11092\**" />
+        Include="**\MyClassLibrary.dll" 
+        Exclude="**\NUnit.2.6.3\**" />
     </ItemGroup>
 
     <Message Text="=== RUNNING UNIT TESTS ==="/>
