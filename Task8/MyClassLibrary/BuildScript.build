@@ -8,7 +8,7 @@
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
   </PropertyGroup>  
   
-  <Target Name="BuildAll" DependsOnTargets="Compile;Test" />  
+  <Target Name="BuildAll" DependsOnTargets="Compile" />  
 
   <Target Name="Compile">
     <Message Text="=== COMPILING $(Configuration) configuration ===" />
