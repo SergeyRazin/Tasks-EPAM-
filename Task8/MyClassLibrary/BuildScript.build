@@ -17,11 +17,11 @@
   <Target Name="Test">
     <ItemGroup>
       <TestAssemblies 
-        Include="**Task8\**\Test_MyClassLibrary\bin\debug\*Test*.dll" />
+        Include="**Task8\**\Test_MyClassLibrary\bin\debug\*Test*.dll" 
     </ItemGroup>
 
     <Message Text="=== RUNNING UNIT TESTS ==="/>
     <NUnit Assemblies="@(TestAssemblies)" ToolPath="$(NUnitPath)" 
-          DisableShadowCopy="true"   />
+          DisableShadowCopy="true" />
   </Target>
 </Project>
