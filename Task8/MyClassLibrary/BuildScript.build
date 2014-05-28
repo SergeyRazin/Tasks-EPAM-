@@ -3,7 +3,7 @@
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
     <Configuration>Debug</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
-	<UsingTask TaskName="NUnitTeamCity" AssemblyFile="$(teamcity_dotnet_nunitlauncher_msbuild_task)" />
+	<UsingTask Name="NUnitTeamCity" AssemblyFile="$(teamcity_dotnet_nunitlauncher_msbuild_task)" />
   </PropertyGroup>  
   
   <Target Name="BuildAll" DependsOnTargets="Compile;Test" />  
