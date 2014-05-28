@@ -17,7 +17,7 @@
   <Target Name="Test">
     <ItemGroup>
       <TestAssemblies 
-        Include="**\MyClassLibrary.dll" 
+        Include="**\Test_MyClassLibrary\bin\debug\*Test*.dll" 
         Exclude="**\NUnit.2.6.3\**" />
     </ItemGroup>
 
