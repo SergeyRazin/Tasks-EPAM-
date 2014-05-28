@@ -3,6 +3,7 @@
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
     <Configuration>Debug</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
+	<UsingTask TaskName="NUnitTeamCity" AssemblyFile="$(teamcity_dotnet_nunitlauncher_msbuild_task)" />
   </PropertyGroup>  
   
   <Target Name="BuildAll" DependsOnTargets="Compile;Test" />  
@@ -21,6 +22,6 @@
 		
     </ItemGroup>
 
-    <NUnitTeamCity сборки = "@ (TestAssembly)"  NUnitVersion = "NUnit-2.6.3" />
+    <NUnitTeamCity сборки = "@ (TestAssemblies)"  NUnitVersion = "NUnit-2.6.3" />
   </Target>
 </Project>
