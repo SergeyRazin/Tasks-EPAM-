@@ -3,13 +3,26 @@
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
     <Configuration>Release</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
+    <NUnitPath>$(WorkingFolder)\packages\NUnit.2.5.10.11092\tools</NUnitPath>
   </PropertyGroup>  
   
-  <Target Name="BuildAll" DependsOnTargets="Compile" />  
+  <Target Name="BuildAll" DependsOnTargets="Compile;Test" />  
 
   <Target Name="Compile">
     <Message Text="=== COMPILING $(Configuration) configuration ===" />
     <MSBuild Projects="$(SolutionFile)" 
              Properties="Configuration=$(Configuration)" />
   </Target>  
+
+  <Target Name="Test">
+    <ItemGroup>
+      <TestAssemblies 
+        Include="**\MyClassLibrary.dll" 
+        Exclude="**\obj\**;**\packages\NUnit.2.5.10.11092\**" />
+    </ItemGroup>
+
+    <Message Text="=== RUNNING UNIT TESTS ==="/>
+    <NUnit Assemblies="@(TestAssemblies)" ToolPath="$(NUnitPath)" 
+          DisableShadowCopy="true" />
+  </Target>
 </Project>
