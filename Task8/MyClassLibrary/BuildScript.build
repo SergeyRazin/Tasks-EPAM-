@@ -3,7 +3,7 @@
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
     <Configuration>Debug</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
-    <NUnitPath>$(WorkingFolder)\packages\NUnit.2.6.3\Tools</NUnitPath>
+    <NUnitPath>$(WorkingFolder)\packages\**\Tools</NUnitPath>
   </PropertyGroup>  
   
   <Target Name="BuildAll" DependsOnTargets="Compile;Test" />  
