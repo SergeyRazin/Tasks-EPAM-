@@ -17,7 +17,7 @@
   <Target Name="Test">
     <ItemGroup>
       <TestAssemblies 
-        Include="**\Test_MyClassLibrary\bin\debug\*Test*.dll" 
+        Include="**\Test_MyClassLibrary\bin\debug\*Test*.dll" />
 
     </ItemGroup>
 
