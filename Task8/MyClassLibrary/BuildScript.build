@@ -3,7 +3,7 @@
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
     <Configuration>Debug</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
-    <NUnitPath>**\nunit.framework.dll</NUnitPath>
+    <NUnitPath>Task8/MyClassLibrary/packages/NUnit.2.6.3</NUnitPath>
   </PropertyGroup>  
   
   <Target Name="BuildAll" DependsOnTargets="Compile;Test" />  
@@ -17,7 +17,10 @@
   <Target Name="Test">
     <ItemGroup>
       <TestAssemblies
-        Include="**Task8\**\Test_MyClassLibrary\bin\debug\*Test*.dll" />
+        Include="**Task8\**\Test_MyClassLibrary\bin\debug\*Test*.dll" 
+		Exclude="**\obj\**;**\packages/NUnit.2.6.3\**" 
+		/>
+		
     </ItemGroup>
 
     <Message Text="=== RUNNING UNIT TESTS ==="/>
