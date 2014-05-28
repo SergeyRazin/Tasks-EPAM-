@@ -28,4 +28,8 @@
      <NUnitTeamCity Assemblies="@(TestAssembly)" NUnitVersion="NUnit-2.4.8"/>
   </Target>
   
+  <Target Name="build">
+     <NUnitTeamCity Assemblies="@(TestAssembly)" Addins="NUnitExtension.RowTest.AddIn.dll" NUnitVersion="NUnit-2.4.6" RunProcessPerAssembly="True"/>
+</Target>
+  
 </Project>
