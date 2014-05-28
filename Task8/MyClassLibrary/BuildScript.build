@@ -3,7 +3,7 @@
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
     <Configuration>Release</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
-    <NUnitPath>$(WorkingFolder)\packages\NUnit.2.6.3</NUnitPath>
+    <NUnitPath>$(WorkingFolder)\packages\NUnit.2.6.3\lib</NUnitPath>
   </PropertyGroup>  
   
   <Target Name="BuildAll" DependsOnTargets="Compile;Test" />  
