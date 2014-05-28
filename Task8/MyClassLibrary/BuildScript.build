@@ -18,6 +18,6 @@
   </Target>  
 
   <Target Name="Test">
-	<NUnitTeamCity Assemblies=""@(TestAssembly)"" NUnitVersion="NUnit-2.6.3"/>
+	<NUnitTeamCity Assemblies="@(TestAssembly)" NUnitVersion="NUnit-2.6.3"/>
   </Target>
 </Project>
