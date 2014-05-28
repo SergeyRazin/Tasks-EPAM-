@@ -6,7 +6,7 @@
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
     <Configuration>Release</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
-	<NUnitPath>$(WorkingFolder)\bin\Debug\nunit.framework.dll</NUnitPath>
+	<NUnitPath>**\bin\Debug</NUnitPath>
   </PropertyGroup>  
   
     <Target Name="BuildAll" DependsOnTargets="Compile;Test" />   
