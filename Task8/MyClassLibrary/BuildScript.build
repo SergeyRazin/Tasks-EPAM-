@@ -18,7 +18,6 @@
     <ItemGroup>
       <TestAssemblies 
         Include="**\Test_MyClassLibrary\bin\debug\*Test*.dll" />
-
     </ItemGroup>
 
     <Message Text="=== RUNNING UNIT TESTS ==="/>
