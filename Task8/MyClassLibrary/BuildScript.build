@@ -23,7 +23,7 @@
     </ItemGroup>
 	
 	<Message Text="=== RUNNING UNIT TESTS ==="/>
-		<NUnit Assemblies="@(TestAssemblies)" ToolPath="$(NUnitPath)" 
+		<NUnit Assemblies="@(TestAssemblies)" ToolPath="$(WorkingFolder)\packages\NUnit.2.6.3\Tools" 
           DisableShadowCopy="true" />
 	
   </Target>
