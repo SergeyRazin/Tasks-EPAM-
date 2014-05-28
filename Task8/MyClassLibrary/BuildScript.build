@@ -1,11 +1,12 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 
-<UsingTask TaskName="NUnit" AssemblyFile="$(teamcity_dotnet_nunitlauncher_msbuild_task)"/>
+
 
   <PropertyGroup>
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
     <Configuration>Release</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
+	<NUnitPath>$(teamcity_dotnet_nunitlauncher_msbuild_task)</NUnitPath>
   </PropertyGroup>  
   
   <Target Name="BuildAll" DependsOnTargets="Compile" />  
@@ -16,24 +17,15 @@
              Properties="Configuration=$(Configuration)" />
   </Target>  
 
-  <Target Name="SayHello">
-     <NUnit Assemblies="**\Test_MyClassLibrary\bin\debug\*Test*.dll"/>
-  </Target>
-  
-  <Target Name="build_01">
-     <!-- start tests for NUnit-2.2.10 -->
-     <NUnitTeamCity Assemblies="@(TestAssembly)" NUnitVersion="NUnit-2.2.10"/>
- 
-     <!-- start tests for NUnit-2.4.6 -->
-     <NUnitTeamCity Assemblies="@(TestAssembly)" NUnitVersion="NUnit-2.4.8"/>
-  </Target>
-  
-  <Target Name="build">
-     <NUnitTeamCity Assemblies="@(TestAssembly)" Addins="NUnitExtension.RowTest.AddIn.dll" NUnitVersion="NUnit-2.4.6" RunProcessPerAssembly="True"/>
-</Target>
+  <Target Name="Test">
+    <ItemGroup>
+      <TestAssemblies 
+        Include="**\Test_MyClassLibrary\bin\debug\*Test*.dll" />
+    </ItemGroup>
 
-
+    <Message Text="=== RUNNING UNIT TESTS ==="/>
     <NUnit Assemblies="@(TestAssemblies)" ToolPath="$(NUnitPath)" 
           DisableShadowCopy="true" />
+  </Target>
   
 </Project>
