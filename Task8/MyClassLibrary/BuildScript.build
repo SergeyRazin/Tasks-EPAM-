@@ -6,7 +6,7 @@
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
     <Configuration>Release</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
-	<NUnitPath>$(MSBuildProjectDirectory)\packages\NUnit.2.6.3</NUnitPath>
+	<NUnitPath>$(WorkingFolder)\packages\NUnit.2.6.3\Tools</NUnitPath>
   </PropertyGroup>  
   
     <Target Name="BuildAll" DependsOnTargets="Compile;Test" />   
@@ -20,7 +20,8 @@
   <Target Name="Test">
     <ItemGroup>
       <TestAssemblies 
-        Include="**\Test_MyClassLibrary\bin\debug\*Test*.dll" />
+        Include="**\Test_MyClassLibrary\bin\debug\*Test*.dll" 
+		Exclude="**\obj\**;**\packages\NUnit.2.6.3\**" />
     </ItemGroup>
 
     <Message Text="=== RUNNING UNIT TESTS ==="/>
