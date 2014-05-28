@@ -1,23 +1,15 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
-    <Configuration>Debug</Configuration>
+    <Configuration>Release</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
   </PropertyGroup>  
-  <UsingTask TaskName="NUnit" AssemblyFile="$(teamcity_dotnet_nunitlauncher_msbuild_task)"/>
-  <Target Name="SayHello">
-     <NUnitTeamCity Assemblies="**Task8\**\Test_MyClassLibrary\bin\debug\*Test*.dll"/>
-  </Target>
   
-  <Target Name="BuildAll" DependsOnTargets="Compile;Test" />  
+  <Target Name="BuildAll" DependsOnTargets="Compile" />  
 
   <Target Name="Compile">
     <Message Text="=== COMPILING $(Configuration) configuration ===" />
     <MSBuild Projects="$(SolutionFile)" 
              Properties="Configuration=$(Configuration)" />
   </Target>  
-
-  <Target Name="Test">
-	<NUnitTeamCity Assemblies="@(TestAssembly)" NUnitVersion="NUnit-2.6.3"/>
-  </Target>
 </Project>
