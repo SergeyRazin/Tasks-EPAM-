@@ -6,7 +6,7 @@
     <WorkingFolder>$(MSBuildProjectDirectory)</WorkingFolder>    
     <Configuration>Release</Configuration>
     <SolutionFile>MyClassLibrary.sln</SolutionFile>
-	<NUnitPath>$(WorkingFolder)\packages\NUnit.2.6.3</NUnitPath>
+	<NUnitPath>$(WorkingFolder)\packages\NUnit.2.6.3\lib</NUnitPath>
   </PropertyGroup>  
   
     <Target Name="BuildAll" DependsOnTargets="Compile;Test" />   
@@ -25,7 +25,7 @@
     </ItemGroup>
 
     <Message Text="=== RUNNING UNIT TESTS ==="/>
-    <NUnit Assemblies="@(TestAssemblies)" ToolPath="$(NUnitPath)" 
+    <NUnit Assemblies="@(TestAssemblies)" ToolPath="11" 
           DisableShadowCopy="true" />
   </Target>
   
