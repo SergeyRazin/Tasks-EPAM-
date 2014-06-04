@@ -1,0 +1,44 @@
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Test_MyClassLibrary.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Test_MyClassLibrary.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\nunit.framework.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Ninject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\nunit.framework.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Ninject.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\obj\Debug\Test_MyClassLibrary.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\obj\Debug\Test_MyClassLibrary.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\obj\Debug\Test_MyClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\NSubstitute.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\NSubstituteAutoMocker.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\NSubstitute.xml
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Configuration.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Typemock.ArrangeActAssert.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\TypeMock.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\TypeMock.TFS2012.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Microsoft.TeamFoundation.Build.Workflow.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\ru\Microsoft.TeamFoundation.Build.Workflow.resources.dll
+C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Microsoft.WITDataStore.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Test_MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Test_MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Configuration.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\NSubstitute.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\NSubstituteAutoMocker.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\nunit.framework.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Typemock.ArrangeActAssert.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\TypeMock.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\TypeMock.TFS2012.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Microsoft.TeamFoundation.Build.Workflow.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\NSubstitute.xml
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\nunit.framework.xml
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\ru\Microsoft.TeamFoundation.Build.Workflow.resources.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Microsoft.WITDataStore.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\obj\Debug\Test_MyClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\obj\Debug\Test_MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\Test_MyClassLibrary\obj\Debug\Test_MyClassLibrary.pdb

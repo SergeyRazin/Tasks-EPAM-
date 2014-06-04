@@ -1,0 +1,224 @@
+2014-05-03 17:26:10.4489|ERROR|WinFormsClient.Form1|Данные для строки или столбца отсутствуют.
+2014-05-03 17:26:10.4959|ERROR|WinFormsClient.Form1|   в System.Data.SqlServerCe.SqlCeDataReader.IsDBNull(Int32 ordinal)
+   в System.Data.SqlServerCe.SqlCeDataReader.GetValue(Int32 ordinal)
+   в System.Data.SqlServerCe.SqlCeDataReader.get_Item(String name)
+   в MyClassLibrary.Accessors.DALdb.getOilfieldByIdWithouthWells(Int32 id0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\DALdb.cs:строка 169
+   в MyClassLibrary.Accessors.DALdb.GetOilfieldById(Int32 id0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\DALdb.cs:строка 569
+   в MyClassLibrary.Accessors.AccessorDB.GetOilfieldByIndex(Int32 index0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorDB.cs:строка 44
+   в WinFormsClient.Form1.ifGetOilBiIndex() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 554
+2014-05-03 17:28:38.0261|ERROR|WinFormsClient.Form1|Месторождения с таким индексом нет
+2014-05-03 17:28:38.1022|ERROR|WinFormsClient.Form1|   в MyClassLibrary.Accessors.AccessorXML.RemoveOilfield(Int32 index0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 106
+   в WinFormsClient.Form1.ifRemoveOilfield() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 257
+2014-05-03 17:29:11.8916|ERROR|WinFormsClient.Form1|такое месторождение уже есть в списке
+2014-05-03 17:29:11.8916|ERROR|WinFormsClient.Form1|   в MyClassLibrary.Accessors.AccessorXML.AddOilfield(Oilfield oilfield0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 90
+   в WinFormsClient.Form1.ifAddOilChecked() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 85
+2014-05-07 09:44:10.8311|ERROR|WinFormsClient.Form1|Файл 'C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\SerializationXML.xml' не найден.
+2014-05-07 09:44:10.9316|ERROR|WinFormsClient.Form1|   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   в System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   в System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   в System.Threading.CompressedStack.runTryCode(Object userData)
+   в System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   в System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   в System.Xml.XmlTextReaderImpl.OpenUrl()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.XPath.XPathDocument.LoadFromReader(XmlReader reader, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri)
+   в MyClassLibrary.Accessors.MyXPath.getOilNamesList() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 100
+   в MyClassLibrary.Accessors.MyXPath.getAllOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 266
+   в MyClassLibrary.Accessors.AccessorXML.GetAllOilfield() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 193
+   в WinFormsClient.Form1.showAll() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 148
+   в WinFormsClient.Form1.ifClear() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 603
+2014-05-07 09:44:26.9889|ERROR|WinFormsClient.Form1|Файл 'C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\SerializationXML.xml' не найден.
+2014-05-07 09:44:26.9889|ERROR|WinFormsClient.Form1|   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   в System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   в System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   в System.Threading.CompressedStack.runTryCode(Object userData)
+   в System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   в System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   в System.Xml.XmlTextReaderImpl.OpenUrl()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.XPath.XPathDocument.LoadFromReader(XmlReader reader, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri)
+   в MyClassLibrary.Accessors.MyXPath.getOilNamesList() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 100
+   в MyClassLibrary.Accessors.MyXPath.getAllOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 266
+   в MyClassLibrary.Accessors.AccessorXML.GetAllOilfield() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 193
+   в WinFormsClient.Form1.showAll() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 148
+   в WinFormsClient.Form1.ifGetAllChecked() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 115
+2014-05-07 09:44:27.8522|ERROR|WinFormsClient.Form1|Файл 'C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\SerializationXML.xml' не найден.
+2014-05-07 09:44:27.8532|ERROR|WinFormsClient.Form1|   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   в System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   в System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   в System.Threading.CompressedStack.runTryCode(Object userData)
+   в System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   в System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   в System.Xml.XmlTextReaderImpl.OpenUrl()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.XPath.XPathDocument.LoadFromReader(XmlReader reader, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri)
+   в MyClassLibrary.Accessors.MyXPath.getOilNamesList() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 100
+   в MyClassLibrary.Accessors.MyXPath.getAllOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 266
+   в MyClassLibrary.Accessors.AccessorXML.GetAllOilfield() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 193
+   в WinFormsClient.Form1.showAll() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 148
+   в WinFormsClient.Form1.ifUpdateOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 410
+2014-05-07 09:44:53.9059|ERROR|WinFormsClient.Form1|Файл 'C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\SerializationXML.xml' не найден.
+2014-05-07 09:44:53.9659|ERROR|WinFormsClient.Form1|   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   в System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   в System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   в System.Threading.CompressedStack.runTryCode(Object userData)
+   в System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   в System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   в System.Xml.XmlTextReaderImpl.OpenUrl()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.XPath.XPathDocument.LoadFromReader(XmlReader reader, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri)
+   в MyClassLibrary.Accessors.MyXPath.getOilNamesList() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 100
+   в MyClassLibrary.Accessors.MyXPath.getAllOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 266
+   в MyClassLibrary.Accessors.AccessorXML.GetAllOilfield() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 193
+   в WinFormsClient.Form1.showAll() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 148
+   в WinFormsClient.Form1.ifGetAllChecked() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 115
+2014-05-07 09:44:54.3951|ERROR|WinFormsClient.Form1|Файл 'C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\SerializationXML.xml' не найден.
+2014-05-07 09:44:54.3951|ERROR|WinFormsClient.Form1|   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   в System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   в System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   в System.Threading.CompressedStack.runTryCode(Object userData)
+   в System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   в System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   в System.Xml.XmlTextReaderImpl.OpenUrl()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.XPath.XPathDocument.LoadFromReader(XmlReader reader, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri)
+   в MyClassLibrary.Accessors.MyXPath.getOilNamesList() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 100
+   в MyClassLibrary.Accessors.MyXPath.getAllOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 266
+   в MyClassLibrary.Accessors.AccessorXML.GetAllOilfield() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 193
+   в WinFormsClient.Form1.showAll() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 148
+   в WinFormsClient.Form1.ifUpdateOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 410
+2014-05-07 09:49:06.6907|ERROR|WinFormsClient.Form1|Файл 'C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\SerializationXML.xml' не найден.
+2014-05-07 09:49:06.7468|ERROR|WinFormsClient.Form1|   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   в System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   в System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   в System.Threading.CompressedStack.runTryCode(Object userData)
+   в System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   в System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   в System.Xml.XmlTextReaderImpl.OpenUrl()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.XPath.XPathDocument.LoadFromReader(XmlReader reader, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri)
+   в MyClassLibrary.Accessors.MyXPath.getOilNamesList() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 100
+   в MyClassLibrary.Accessors.MyXPath.getAllOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 266
+   в MyClassLibrary.Accessors.AccessorXML.GetAllOilfield() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 193
+   в WinFormsClient.Form1.showAll() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 148
+   в WinFormsClient.Form1.ifGetAllChecked() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 115
+2014-05-07 09:49:07.3685|ERROR|WinFormsClient.Form1|Файл 'C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\SerializationXML.xml' не найден.
+2014-05-07 09:49:07.3685|ERROR|WinFormsClient.Form1|   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   в System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   в System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   в System.Threading.CompressedStack.runTryCode(Object userData)
+   в System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   в System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   в System.Xml.XmlTextReaderImpl.OpenUrl()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.XPath.XPathDocument.LoadFromReader(XmlReader reader, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri)
+   в MyClassLibrary.Accessors.MyXPath.getOilNamesList() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 100
+   в MyClassLibrary.Accessors.MyXPath.getAllOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 266
+   в MyClassLibrary.Accessors.AccessorXML.GetAllOilfield() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 193
+   в WinFormsClient.Form1.showAll() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 148
+   в WinFormsClient.Form1.ifUpdateOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 410
+2014-05-07 09:59:33.0722|ERROR|WinFormsClient.Form1|Месторождения с таким индексом нет.
+2014-05-07 09:59:33.1252|ERROR|WinFormsClient.Form1|   в MyClassLibrary.Accessors.DALdb.GetNameByIndex(Int32 index0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\DALdb.cs:строка 515
+   в MyClassLibrary.Accessors.AccessorDB.GetNameByIndex(Int32 index0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorDB.cs:строка 72
+   в WinFormsClient.Form1.ifCountWellsInOilfield() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 502
+2014-05-07 10:13:37.7416|ERROR|WinFormsClient.Form1|Месторождение с таким именем уже существует.
+2014-05-07 10:13:37.7957|ERROR|WinFormsClient.Form1|   в MyClassLibrary.Accessors.DALdb.UpdateOilfield(Int32 index0, Oilfield oilfield0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\DALdb.cs:строка 611
+   в MyClassLibrary.Accessors.AccessorDB.UpdateOilfield(Int32 index0, Oilfield oilfield0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorDB.cs:строка 34
+   в WinFormsClient.Form1.ifUpdateOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 408
+2014-05-07 10:15:26.8574|ERROR|WinFormsClient.Form1|такое месторождение уже есть в списке
+2014-05-07 10:15:26.9194|ERROR|WinFormsClient.Form1|   в MyClassLibrary.Accessors.AccessorBinary.UpdateOilfield(Int32 index0, Oilfield oilfield0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorBinary.cs:строка 202
+   в WinFormsClient.Form1.ifUpdateOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 408
+2014-05-07 10:15:41.0779|ERROR|WinFormsClient.Form1|такое месторождение уже есть в списке
+2014-05-07 10:15:41.0779|ERROR|WinFormsClient.Form1|   в MyClassLibrary.Accessors.AccessorBinary.UpdateOilfield(Int32 index0, Oilfield oilfield0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorBinary.cs:строка 202
+   в WinFormsClient.Form1.ifUpdateOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 408
+2014-05-07 10:15:47.3914|ERROR|WinFormsClient.Form1|месторождения с таким индексом нет
+2014-05-07 10:15:47.3914|ERROR|WinFormsClient.Form1|   в MyClassLibrary.Accessors.AccessorBinary.UpdateOilfield(Int32 index0, Oilfield oilfield0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorBinary.cs:строка 207
+   в WinFormsClient.Form1.ifUpdateOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 408
+2014-05-07 10:18:01.3355|ERROR|WinFormsClient.Form1|такое месторождение уже есть в списке
+2014-05-07 10:18:01.3905|ERROR|WinFormsClient.Form1|   в MyClassLibrary.Accessors.AccessorXML.UpdateOilfield(Int32 index0, Oilfield oilfield0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 173
+   в WinFormsClient.Form1.ifUpdateOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 408
+2014-05-07 10:18:08.6278|ERROR|WinFormsClient.Form1|такое месторождение уже есть в списке
+2014-05-07 10:18:08.6278|ERROR|WinFormsClient.Form1|   в MyClassLibrary.Accessors.AccessorXML.AddOilfield(Oilfield oilfield0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 91
+   в WinFormsClient.Form1.ifAddOilChecked() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 80
+2014-05-07 12:11:40.0595|ERROR|WinFormsClient.Form1|Файл 'C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\SerializationXML.xml' не найден.
+2014-05-07 12:11:40.1236|ERROR|WinFormsClient.Form1|   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   в System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   в System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   в System.Threading.CompressedStack.runTryCode(Object userData)
+   в System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   в System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   в System.Xml.XmlTextReaderImpl.OpenUrl()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.XPath.XPathDocument.LoadFromReader(XmlReader reader, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri)
+   в MyClassLibrary.Accessors.MyXPath.getOilNamesList() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 100
+   в MyClassLibrary.Accessors.MyXPath.getAllOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 266
+   в MyClassLibrary.Accessors.AccessorXML.AddOilfield(Oilfield oilfield0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 86
+   в WinFormsClient.Form1.ifAddOilChecked() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 79
+2014-05-07 12:16:34.4765|ERROR|WinFormsClient.Form1|Файл 'C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\SerializationXML.xml' не найден.
+2014-05-07 12:16:34.5326|ERROR|WinFormsClient.Form1|   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   в System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   в System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   в System.Threading.CompressedStack.runTryCode(Object userData)
+   в System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   в System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   в System.Xml.XmlTextReaderImpl.OpenUrl()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.XPath.XPathDocument.LoadFromReader(XmlReader reader, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri, XmlSpace space)
+   в System.Xml.XPath.XPathDocument..ctor(String uri)
+   в MyClassLibrary.Accessors.MyXPath.getOilNamesList() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 100
+   в MyClassLibrary.Accessors.MyXPath.getAllOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\MyXPath.cs:строка 266
+   в MyClassLibrary.Accessors.AccessorXML.UpdateOilfield(Int32 index0, Oilfield oilfield0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 184
+   в WinFormsClient.Form1.ifUpdateOil() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 407
+2014-05-07 12:17:08.0643|ERROR|WinFormsClient.Form1|такое месторождение уже есть в списке
+2014-05-07 12:17:08.0643|ERROR|WinFormsClient.Form1|   в MyClassLibrary.Accessors.AccessorXML.AddOilfield(Oilfield oilfield0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 95
+   в WinFormsClient.Form1.ifAddOilChecked() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 79
+2014-05-07 12:20:40.3241|ERROR|WinFormsClient.Form1|Месторождение с таким именени уже есть.
+2014-05-07 12:20:40.3881|ERROR|WinFormsClient.Form1|   в MyClassLibrary.Accessors.AccessorXML.AddWell(Well well0, String oilfieldName0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 133
+   в WinFormsClient.Form1.ifAddWellChecked() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 204
+2014-05-07 12:20:49.7270|ERROR|WinFormsClient.Form1|Месторождение с таким именени уже есть.
+2014-05-07 12:20:49.7280|ERROR|WinFormsClient.Form1|   в MyClassLibrary.Accessors.AccessorXML.AddWell(Well well0, String oilfieldName0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorXML.cs:строка 133
+   в WinFormsClient.Form1.ifAddWellChecked() в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\WinFormsClient\Form1.cs:строка 204

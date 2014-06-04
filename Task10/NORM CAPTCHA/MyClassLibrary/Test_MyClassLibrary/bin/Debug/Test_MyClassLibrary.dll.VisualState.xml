@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1022]Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_GetAllOilfield</TopNode>
+  <SelectedNode>[0-1026]Test_MyClassLibrary.Test_Accessors.Test_AccessorDB.Test_AccessorDB_CountWellsInOilfield</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1060]C:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\Test_MyClassLibrary\bin\Debug\Test_MyClassLibrary.dll" Expanded="true" />
+    <Node UniqueName="[0-1061]Test_MyClassLibrary" Expanded="true" />
+    <Node UniqueName="[0-1062]Test_MyClassLibrary.Test_Accessors" Expanded="true" />
+    <Node UniqueName="[0-1016]Test_MyClassLibrary.Test_Accessors.Test_AccessorDB" Expanded="true" />
+    <Node UniqueName="[0-1063]Test_MyClassLibrary.Test_DataClasses" Expanded="true" />
+  </Nodes>
+</VisualState>
