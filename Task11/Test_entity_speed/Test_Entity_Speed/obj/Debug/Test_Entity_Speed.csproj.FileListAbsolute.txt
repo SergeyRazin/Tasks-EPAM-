@@ -1,0 +1,33 @@
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\App_Data\Database1.sdf
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\Test_Entity_Speed.dll.config
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\Test_Entity_Speed.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\Test_Entity_Speed.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\nunit.framework.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\obj\Debug\Test_Entity_Speed.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\obj\Debug\Test_Entity_Speed.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\obj\Debug\Test_Entity_Speed.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\Database1.sdf
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\EntityFramework.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\EntityFramework.xml
+C:\Users\HP HomE\Desktop\21.06.2014 homework\Test_Entity_Speed\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\Database1.sdf
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\App_Data\Database1.sdf
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\Test_Entity_Speed.dll.config
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\Test_Entity_Speed.dll
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\Test_Entity_Speed.pdb
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\EntityFramework.dll
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\nunit.framework.dll
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\EntityFramework.xml
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\nunit.framework.xml
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\obj\Debug\Test_Entity_Speed.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\obj\Debug\Test_Entity_Speed.dll
+C:\Users\HP HomE\Desktop\Новая папка (2)\trunk\Task11\Test_entity_speed\Test_Entity_Speed\obj\Debug\Test_Entity_Speed.pdb

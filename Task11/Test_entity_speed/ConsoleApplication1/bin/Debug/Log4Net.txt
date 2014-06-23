@@ -1,0 +1,4 @@
+2014-05-05 15:51:49,257 [9] ERROR ConsoleApplication1.Loggers.WrapLog4Net [(null)] - hello 4
+2014-05-05 17:47:14,461 [10] ERROR ConsoleApplication1.Loggers.WrapLog4Net [(null)] - месторождения с таким индексом нет
+2014-05-05 17:47:14,547 [10] ERROR ConsoleApplication1.Loggers.WrapLog4Net [(null)] -    в MyClassLibrary.Accessors.AccessorBinary.GetOilfieldByIndex(Int32 index0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorBinary.cs:строка 248
+   в ConsoleApplication1.ChifMyConsole.selectAction(String operation, IAccessor accessor) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\ConsoleApplication1\ChifMyConsole.cs:строка 418

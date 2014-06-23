@@ -1,0 +1,20 @@
+c:\users\hp home\documents\visual studio 2012\Projects\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+c:\users\hp home\documents\visual studio 2012\Projects\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+c:\users\hp home\documents\visual studio 2012\Projects\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+c:\users\hp home\documents\visual studio 2012\Projects\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\MyClassLibrary\bin\Debug\Ninject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\MyClassLibrary\bin\Debug\Ninject.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\MyClassLibrary\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\MyClassLibrary\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\MyClassLibrary\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\MyClassLibrary\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\21.06.2014 homework\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\MyClassLibrary\obj\Debug\MyClassLibrary.pdb

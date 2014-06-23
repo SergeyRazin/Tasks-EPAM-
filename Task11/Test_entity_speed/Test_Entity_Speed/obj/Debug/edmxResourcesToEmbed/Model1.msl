@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище Database1ModelContainer" CdmEntityContainer="Database1Entities">
+    <EntitySetMapping Name="Oilfield">
+      <EntityTypeMapping TypeName="Database1Model.Oilfield">
+        <MappingFragment StoreEntitySet="Oilfield">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="OilResolv" ColumnName="OilResolv" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Well">
+      <EntityTypeMapping TypeName="Database1Model.Well">
+        <MappingFragment StoreEntitySet="Well">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="IDOilfield" ColumnName="IDOilfield" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="Debit" ColumnName="Debit" />
+          <ScalarProperty Name="Pump" ColumnName="Pump" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

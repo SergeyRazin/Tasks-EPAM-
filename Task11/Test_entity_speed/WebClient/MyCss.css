@@ -1,0 +1,35 @@
+﻿body 
+{
+    background-color: lemonchiffon;
+}
+
+#oil
+{
+    border: 1px solid black;
+}
+
+#well
+{
+    border: 1px solid black;
+}
+
+#insertInfo
+{
+    float: left;
+}
+
+#clear
+{
+    clear: both;
+}
+
+#grid
+{
+    position: absolute;
+    top: 172px;
+    right: 20px;
+    width: 50%;
+}
+
+
+

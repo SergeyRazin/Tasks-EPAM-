@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Database1Entities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Oilfield" EntityType="Database1Model.Oilfield" />
+    <EntitySet Name="Well" EntityType="Database1Model.Well" />
+    <AssociationSet Name="con" Association="Database1Model.con">
+      <End Role="Oilfield" EntitySet="Oilfield" />
+      <End Role="Well" EntitySet="Well" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Oilfield">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="OilResolv" Type="Int32" />
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Well" Relationship="Database1Model.con" FromRole="Oilfield" ToRole="Well" />
+  </EntityType>
+  <EntityType Name="Well">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="IDOilfield" Type="Int32" />
+    <Property Name="Number" Type="Int32" />
+    <Property Name="Debit" Type="Int32" />
+    <Property Name="Pump" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Oilfield" Relationship="Database1Model.con" FromRole="Well" ToRole="Oilfield" />
+  </EntityType>
+  <Association Name="con">
+    <End Role="Oilfield" Type="Database1Model.Oilfield" Multiplicity="0..1" />
+    <End Role="Well" Type="Database1Model.Well" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Oilfield">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Well">
+        <PropertyRef Name="IDOilfield" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

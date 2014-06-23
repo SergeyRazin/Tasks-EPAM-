@@ -1,0 +1,55 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=226D027CAAA2451896C62F256EBB747A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=226D027CAAA2451896C62F256EBB747A/Name/@EntryValue">Test_MyORM_speed_Childern</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=226D027CAAA2451896C62F256EBB747A/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Test_Entity_Speed.Test_Speed" type="NUnitTestFixtureElement" Project="A562A4E9-B86B-482B-85DB-28E8E7712D46" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Test_Entity_Speed.Test_Speed.Test_Entity_speed_Children" ParentId="Test_Entity_Speed.Test_Speed" type="NUnitTestElement" TypeName="Test_Entity_Speed.Test_Speed" MethodName="Test_Entity_speed_Children" Project="A562A4E9-B86B-482B-85DB-28E8E7712D46" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Test_Entity_Speed.Test_Speed.Test_Entity_speed_Parents" ParentId="Test_Entity_Speed.Test_Speed" type="NUnitTestElement" TypeName="Test_Entity_Speed.Test_Speed" MethodName="Test_Entity_speed_Parents" Project="A562A4E9-B86B-482B-85DB-28E8E7712D46" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Test_Entity_Speed.Test_Speed.Test_MyORM_speed_Childern" ParentId="Test_Entity_Speed.Test_Speed" type="NUnitTestElement" TypeName="Test_Entity_Speed.Test_Speed" MethodName="Test_MyORM_speed_Childern" Project="A562A4E9-B86B-482B-85DB-28E8E7712D46" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Test_Entity_Speed.Test_Speed.Test_MyORM_speed_Parents" ParentId="Test_Entity_Speed.Test_Speed" type="NUnitTestElement" TypeName="Test_Entity_Speed.Test_Speed" MethodName="Test_MyORM_speed_Parents" Project="A562A4E9-B86B-482B-85DB-28E8E7712D46" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=4BB054D686A142E0A69B620832516E09/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=4BB054D686A142E0A69B620832516E09/Name/@EntryValue">Test_temp</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=4BB054D686A142E0A69B620832516E09/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=6298A7BA90F1468F94EB3F479C291B80/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=6298A7BA90F1468F94EB3F479C291B80/Name/@EntryValue">Test_temp</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=6298A7BA90F1468F94EB3F479C291B80/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=76D3AED76B7E4EB0A6CA28A791751216/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=76D3AED76B7E4EB0A6CA28A791751216/Name/@EntryValue">Test_Entity_speed_Children</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=76D3AED76B7E4EB0A6CA28A791751216/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8910E10726A14381B22BC3F7B9C1F38D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8910E10726A14381B22BC3F7B9C1F38D/Name/@EntryValue">Test_Entity_speed_Children</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8910E10726A14381B22BC3F7B9C1F38D/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=91E7334A08674F3DBB2A61D1B46780CF/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=91E7334A08674F3DBB2A61D1B46780CF/Name/@EntryValue">Test_MyORM_speed_Parents</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=91E7334A08674F3DBB2A61D1B46780CF/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=9F6E03F37E2941FF930B30C6F61600F6/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=9F6E03F37E2941FF930B30C6F61600F6/Name/@EntryValue">Entyty</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=9F6E03F37E2941FF930B30C6F61600F6/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AD6EBB7BA47D47E9A534BB51D283516C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AD6EBB7BA47D47E9A534BB51D283516C/Name/@EntryValue">Test_Entity_speed_Parents</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AD6EBB7BA47D47E9A534BB51D283516C/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=D196841AC7C14FE1BE3A56F1C3D359E0/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=D196841AC7C14FE1BE3A56F1C3D359E0/Name/@EntryValue">Test_temp</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=D196841AC7C14FE1BE3A56F1C3D359E0/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Test_Entity_Speed.Test_Speed" type="NUnitTestFixtureElement" Project="A562A4E9-B86B-482B-85DB-28E8E7712D46" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Test_Entity_Speed.Test_Speed.Test_Entity_speed_Children" ParentId="Test_Entity_Speed.Test_Speed" type="NUnitTestElement" TypeName="Test_Entity_Speed.Test_Speed" MethodName="Test_Entity_speed_Children" Project="A562A4E9-B86B-482B-85DB-28E8E7712D46" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Test_Entity_Speed.Test_Speed.Test_Entity_speed_Parents" ParentId="Test_Entity_Speed.Test_Speed" type="NUnitTestElement" TypeName="Test_Entity_Speed.Test_Speed" MethodName="Test_Entity_speed_Parents" Project="A562A4E9-B86B-482B-85DB-28E8E7712D46" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Test_Entity_Speed.Test_Speed.Test_MyORM_speed_Childern" ParentId="Test_Entity_Speed.Test_Speed" type="NUnitTestElement" TypeName="Test_Entity_Speed.Test_Speed" MethodName="Test_MyORM_speed_Childern" Project="A562A4E9-B86B-482B-85DB-28E8E7712D46" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Test_Entity_Speed.Test_Speed.Test_MyORM_speed_Parents" ParentId="Test_Entity_Speed.Test_Speed" type="NUnitTestElement" TypeName="Test_Entity_Speed.Test_Speed" MethodName="Test_MyORM_speed_Parents" Project="A562A4E9-B86B-482B-85DB-28E8E7712D46" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</wpf:ResourceDictionary>

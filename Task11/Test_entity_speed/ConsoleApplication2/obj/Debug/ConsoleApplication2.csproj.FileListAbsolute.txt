@@ -1,0 +1,10 @@
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleApplication2\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleApplication2\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleApplication2\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleApplication2\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

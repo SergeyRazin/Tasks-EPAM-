@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище Database1Model" Alias="Self" Provider="System.Data.SqlServerCe.4.0" ProviderManifestToken="4.0" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Хранилище Database1ModelContainer">
+    <EntitySet Name="Oilfield" EntityType="Хранилище Database1Model.Oilfield" store:Type="Tables" />
+    <EntitySet Name="Well" EntityType="Хранилище Database1Model.Well" store:Type="Tables" />
+    <AssociationSet Name="con" Association="Хранилище Database1Model.con">
+      <End Role="Oilfield" EntitySet="Oilfield" />
+      <End Role="Well" EntitySet="Well" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Oilfield">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="Name" Type="nvarchar" MaxLength="100" />
+    <Property Name="OilResolv" Type="int" />
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Well">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="IDOilfield" Type="int" />
+    <Property Name="Number" Type="int" />
+    <Property Name="Debit" Type="int" />
+    <Property Name="Pump" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="con">
+    <End Role="Oilfield" Type="Хранилище Database1Model.Oilfield" Multiplicity="0..1" />
+    <End Role="Well" Type="Хранилище Database1Model.Well" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Oilfield">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Well">
+        <PropertyRef Name="IDOilfield" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

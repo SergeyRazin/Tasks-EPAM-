@@ -1,0 +1,56 @@
+c:\users\hp home\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+c:\users\hp home\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\bin\Debug\App_Data\ConsoleDB.sdf
+c:\users\hp home\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\bin\Debug\ConsoleClient.exe
+c:\users\hp home\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\bin\Debug\ConsoleClient.pdb
+c:\users\hp home\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\bin\Debug\MyClassLibrary.dll
+c:\users\hp home\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.exe
+c:\users\hp home\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\bin\Debug\NLog.config
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\bin\Debug\NLog.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\bin\Debug\NLog.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\bin\Debug\Ninject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\bin\Debug\Ninject.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\bin\Debug\NLog.config
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\bin\Debug\App_Data\ConsoleDB.sdf
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\bin\Debug\NLog.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\bin\Debug\NLog.xml
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\bin\Debug\NLog.config
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\bin\Debug\App_Data\ConsoleDB.sdf
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\bin\Debug\NLog.dll
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\bin\Debug\NLog.xml
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\bin\Debug\NLog.config
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\bin\Debug\App_Data\ConsoleDB.sdf
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\bin\Debug\NLog.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\bin\Debug\NLog.xml
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\HP HomE\Desktop\21.06.2014 homework\ConsoleClient\obj\Debug\ConsoleClient.pdb

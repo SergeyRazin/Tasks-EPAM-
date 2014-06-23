@@ -1,0 +1,48 @@
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WebClient\bin\WebClient.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WebClient\bin\WebClient.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WebClient\obj\Debug\WebClient.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WebClient\obj\Debug\WebClient.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WebClient\bin\MyClassLibrary.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WebClient\bin\NLog.config
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WebClient\bin\NLog.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WebClient\bin\NLog.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WebClient\bin\Ninject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WebClient\bin\Ninject.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WebClient\bin\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WebClient\bin\NLog.config
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WebClient\bin\WebClient.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WebClient\bin\WebClient.pdb
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WebClient\bin\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WebClient\bin\Ninject.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WebClient\bin\NLog.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WebClient\bin\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WebClient\bin\Ninject.xml
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WebClient\bin\NLog.xml
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WebClient\obj\Debug\WebClient.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WebClient\obj\Debug\WebClient.pdb
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WebClient\bin\NLog.config
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WebClient\bin\WebClient.dll
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WebClient\bin\WebClient.pdb
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WebClient\bin\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WebClient\bin\Ninject.dll
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WebClient\bin\NLog.dll
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WebClient\bin\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WebClient\bin\Ninject.xml
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WebClient\bin\NLog.xml
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WebClient\obj\Debug\WebClient.dll
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WebClient\obj\Debug\WebClient.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\WebClient\bin\NLog.config
+C:\Users\HP HomE\Desktop\21.06.2014 homework\WebClient\bin\WebClient.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\WebClient\bin\WebClient.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\WebClient\bin\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\WebClient\bin\Ninject.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\WebClient\bin\NLog.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\WebClient\bin\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\21.06.2014 homework\WebClient\bin\Ninject.xml
+C:\Users\HP HomE\Desktop\21.06.2014 homework\WebClient\bin\NLog.xml
+C:\Users\HP HomE\Desktop\21.06.2014 homework\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\21.06.2014 homework\WebClient\obj\Debug\WebClient.dll
+C:\Users\HP HomE\Desktop\21.06.2014 homework\WebClient\obj\Debug\WebClient.pdb
