@@ -1,0 +1,68 @@
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.exe.config
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.exe
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\NLog.config
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\App_Data\WinFormDB.sdf
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.exe
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\NLog.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\Ninject.dll
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\NLog.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\bin\Debug\Ninject.xml
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.Form1.resources
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
+C:\Users\HP HomE\documents\visual studio 2012\Projects\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.Cache
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.exe.config
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.exe
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.pdb
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\bin\Debug\NLog.config
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\bin\Debug\App_Data\WinFormDB.sdf
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.exe
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.pdb
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\bin\Debug\NLog.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\bin\Debug\NLog.xml
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.Form1.resources
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
+C:\Users\HP HomE\Desktop\Task8\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.Cache
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\bin\Debug\NLog.config
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\bin\Debug\App_Data\WinFormDB.sdf
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.exe.config
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.exe
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.pdb
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\bin\Debug\NLog.dll
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\bin\Debug\NLog.xml
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.Form1.resources
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.Cache
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.exe
+C:\Users\HP HomE\Desktop\NORM CAPTCHA\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.pdb
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.exe.config
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.exe
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.pdb
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\bin\Debug\NLog.config
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\bin\Debug\App_Data\WinFormDB.sdf
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.exe
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\bin\Debug\WinFormsClient.pdb
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\bin\Debug\NLog.dll
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\bin\Debug\NLog.xml
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.Form1.resources
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
+C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WinFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.Cache

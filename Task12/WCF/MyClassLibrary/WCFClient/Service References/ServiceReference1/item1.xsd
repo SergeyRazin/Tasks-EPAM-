@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/MyClassLibrary.DataClasses" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/MyClassLibrary.DataClasses" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfOilfield">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Oilfield" nillable="true" type="tns:Oilfield" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfOilfield" nillable="true" type="tns:ArrayOfOilfield" />
+  <xs:complexType name="Oilfield">
+    <xs:sequence>
+      <xs:element name="Wells" nillable="true" type="tns:ArrayOfWell" />
+      <xs:element name="_x003C_Index_x003E_k__BackingField" type="xs:int" />
+      <xs:element name="_x003C_Name_x003E_k__BackingField" nillable="true" type="xs:string" />
+      <xs:element name="_x003C_OilReserves_x003E_k__BackingField" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Oilfield" nillable="true" type="tns:Oilfield" />
+  <xs:complexType name="ArrayOfWell">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Well" nillable="true" type="tns:Well" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfWell" nillable="true" type="tns:ArrayOfWell" />
+  <xs:complexType name="Well">
+    <xs:sequence>
+      <xs:element name="_x003C_Debit_x003E_k__BackingField" type="xs:int" />
+      <xs:element name="_x003C_Number_x003E_k__BackingField" type="xs:int" />
+      <xs:element name="_x003C_Pump_x003E_k__BackingField" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Well" nillable="true" type="tns:Well" />
+</xs:schema>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfOilfield xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Oilfield>
+    <Wells />
+    <Index>0</Index>
+    <Name>белозерское</Name>
+    <OilReserves>200</OilReserves>
+  </Oilfield>
+  <Oilfield>
+    <Wells>
+      <Well>
+        <Number>2</Number>
+        <Debit>49</Debit>
+        <Pump>ЭЦН-60</Pump>
+      </Well>
+      <Well>
+        <Number>3</Number>
+        <Debit>10</Debit>
+        <Pump>30</Pump>
+      </Well>
+    </Wells>
+    <Index>1</Index>
+    <Name>черное</Name>
+    <OilReserves>499</OilReserves>
+  </Oilfield>
+  <Oilfield>
+    <Wells />
+    <Index>0</Index>
+    <Name>Зольное</Name>
+    <OilReserves>300000</OilReserves>
+  </Oilfield>
+</ArrayOfOilfield>

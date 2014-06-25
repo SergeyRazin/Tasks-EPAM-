@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WCFServer/Service1/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/MyClassLibrary.DataClasses" />
+  <xs:element name="GetAllOilfields">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="accessor0" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllOilfieldsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/MyClassLibrary.DataClasses" minOccurs="0" name="GetAllOilfieldsResult" nillable="true" type="q1:ArrayOfOilfield" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AddOilfield">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="accessor0" type="xs:int" />
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/MyClassLibrary.DataClasses" minOccurs="0" name="oil0" nillable="true" type="q2:Oilfield" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AddOilfieldResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RemoveOilfield">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="accessor0" type="xs:int" />
+        <xs:element minOccurs="0" name="indexOil0" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RemoveOilfieldResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AddWell">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="accessor0" type="xs:int" />
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/MyClassLibrary.DataClasses" minOccurs="0" name="well0" nillable="true" type="q3:Well" />
+        <xs:element minOccurs="0" name="nameOil0" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AddWellResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RemoveWell">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="accessor0" type="xs:int" />
+        <xs:element minOccurs="0" name="indexWell0" type="xs:int" />
+        <xs:element minOccurs="0" name="nameOil0" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RemoveWellResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateOilfield">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="accessor0" type="xs:int" />
+        <xs:element minOccurs="0" name="indexOil0" type="xs:int" />
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/MyClassLibrary.DataClasses" minOccurs="0" name="oil0" nillable="true" type="q4:Oilfield" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateOilfieldResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllOilfield">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="accessor0" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllOilfieldResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/MyClassLibrary.DataClasses" minOccurs="0" name="GetAllOilfieldResult" nillable="true" type="q5:ArrayOfOilfield" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetOilfieldByIndex">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="accessor0" type="xs:int" />
+        <xs:element minOccurs="0" name="index0" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetOilfieldByIndexResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/MyClassLibrary.DataClasses" minOccurs="0" name="GetOilfieldByIndexResult" nillable="true" type="q6:Oilfield" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CountOilfield">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="accessor0" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CountOilfieldResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CountOilfieldResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Clear">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="accessor0" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ClearResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

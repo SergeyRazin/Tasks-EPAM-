@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WCFServer/Service1/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WCFServer/Service1/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WCFServer/Service1/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/MyClassLibrary.DataClasses" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_GetAllOilfields_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllOilfields" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllOilfields_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllOilfieldsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddOilfield_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddOilfield" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddOilfield_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddOilfieldResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_RemoveOilfield_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveOilfield" />
+  </wsdl:message>
+  <wsdl:message name="IService1_RemoveOilfield_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveOilfieldResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddWell_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddWell" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddWell_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddWellResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_RemoveWell_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveWell" />
+  </wsdl:message>
+  <wsdl:message name="IService1_RemoveWell_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveWellResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateOilfield_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateOilfield" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateOilfield_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateOilfieldResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllOilfield_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllOilfield" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllOilfield_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllOilfieldResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetOilfieldByIndex_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetOilfieldByIndex" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetOilfieldByIndex_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetOilfieldByIndexResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_CountOilfield_InputMessage">
+    <wsdl:part name="parameters" element="tns:CountOilfield" />
+  </wsdl:message>
+  <wsdl:message name="IService1_CountOilfield_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CountOilfieldResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Clear_InputMessage">
+    <wsdl:part name="parameters" element="tns:Clear" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Clear_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ClearResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="GetAllOilfields">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllOilfields" message="tns:IService1_GetAllOilfields_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllOilfieldsResponse" message="tns:IService1_GetAllOilfields_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddOilfield">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddOilfield" message="tns:IService1_AddOilfield_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddOilfieldResponse" message="tns:IService1_AddOilfield_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOilfield">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/RemoveOilfield" message="tns:IService1_RemoveOilfield_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/RemoveOilfieldResponse" message="tns:IService1_RemoveOilfield_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddWell">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddWell" message="tns:IService1_AddWell_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddWellResponse" message="tns:IService1_AddWell_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemoveWell">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/RemoveWell" message="tns:IService1_RemoveWell_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/RemoveWellResponse" message="tns:IService1_RemoveWell_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateOilfield">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateOilfield" message="tns:IService1_UpdateOilfield_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateOilfieldResponse" message="tns:IService1_UpdateOilfield_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllOilfield">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllOilfield" message="tns:IService1_GetAllOilfield_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllOilfieldResponse" message="tns:IService1_GetAllOilfield_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOilfieldByIndex">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetOilfieldByIndex" message="tns:IService1_GetOilfieldByIndex_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetOilfieldByIndexResponse" message="tns:IService1_GetOilfieldByIndex_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CountOilfield">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/CountOilfield" message="tns:IService1_CountOilfield_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/CountOilfieldResponse" message="tns:IService1_CountOilfield_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Clear">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Clear" message="tns:IService1_Clear_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/ClearResponse" message="tns:IService1_Clear_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAllOilfields">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllOilfields" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddOilfield">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddOilfield" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOilfield">
+      <soap:operation soapAction="http://tempuri.org/IService1/RemoveOilfield" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddWell">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddWell" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveWell">
+      <soap:operation soapAction="http://tempuri.org/IService1/RemoveWell" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateOilfield">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateOilfield" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllOilfield">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllOilfield" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOilfieldByIndex">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetOilfieldByIndex" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CountOilfield">
+      <soap:operation soapAction="http://tempuri.org/IService1/CountOilfield" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Clear">
+      <soap:operation soapAction="http://tempuri.org/IService1/Clear" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/WCFServer/Service1/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

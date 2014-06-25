@@ -1,0 +1,9 @@
+2014-05-03 16:37:16.8917|ERROR|ConsoleClient.Chief|Месторождения с таким индексом нет
+2014-05-03 16:37:16.9608|ERROR|ConsoleClient.Chief|   в MyClassLibrary.Accessors.AccessorBinary.RemoveOilfield(Int32 index0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorBinary.cs:строка 116
+   в ConsoleClient.Chief.selectAction(String operation, IAccessor accessor) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\ConsoleClient\Chief.cs:строка 244
+2014-05-03 16:37:47.3909|ERROR|ConsoleClient.Chief|Месторождения с таким именем нет.
+2014-05-03 16:37:47.3909|ERROR|ConsoleClient.Chief|   в MyClassLibrary.Accessors.AccessorBinary.RemoveWell(Int32 numberWell0, String oilfieldName0) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\MyClassLibrary\Accessors\AccessorBinary.cs:строка 163
+   в ConsoleClient.Chief.selectAction(String operation, IAccessor accessor) в c:\Users\HP HomE\Documents\Visual Studio 2012\Projects\MyClassLibrary\ConsoleClient\Chief.cs:строка 317
+2014-06-23 13:41:08.6808|ERROR|ConsoleClient.Chief|Месторождения с таким индексом нет
+2014-06-23 13:41:08.7039|ERROR|ConsoleClient.Chief|   в MyClassLibrary.Accessors.AccessorBinary.RemoveOilfield(Int32 index0) в c:\Users\HP HomE\Desktop\WCF\MyClassLibrary\MyClassLibrary\Accessors\AccessorBinary.cs:строка 116
+   в ConsoleClient.Chief.selectAction(String operation, IAccessor accessor) в c:\Users\HP HomE\Desktop\WCF\MyClassLibrary\ConsoleClient\Chief.cs:строка 249
