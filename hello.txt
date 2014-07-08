@@ -3,4 +3,3 @@ world
 mark
 kosty
 alexander
-dima
