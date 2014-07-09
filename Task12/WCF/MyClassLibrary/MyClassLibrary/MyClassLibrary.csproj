@@ -63,6 +63,7 @@
     <Compile Include="MyExceptions\MyException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SimpleConfigurationModule.cs" />
+    <Compile Include="Test2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

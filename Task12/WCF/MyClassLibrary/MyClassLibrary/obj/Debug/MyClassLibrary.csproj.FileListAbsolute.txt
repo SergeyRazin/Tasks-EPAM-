@@ -18,3 +18,10 @@ C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\MyClassLibrary\bin\Debug\Ninject.dll
 C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\MyClassLibrary\bin\Debug\Ninject.xml
 C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.dll
 C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\MyClassLibrary\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\MyClassLibrary\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.pdb

@@ -46,3 +46,15 @@ C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WebClient\bin\NLog.xml
 C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
 C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WebClient\obj\Debug\WebClient.dll
 C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WebClient\obj\Debug\WebClient.pdb
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WebClient\bin\NLog.config
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WebClient\bin\WebClient.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WebClient\bin\WebClient.pdb
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WebClient\bin\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WebClient\bin\Ninject.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WebClient\bin\NLog.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WebClient\bin\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WebClient\bin\Ninject.xml
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WebClient\bin\NLog.xml
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WebClient\obj\Debug\WebClient.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WebClient\obj\Debug\WebClient.pdb

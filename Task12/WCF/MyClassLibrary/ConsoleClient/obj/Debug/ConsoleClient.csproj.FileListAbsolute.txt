@@ -54,3 +54,17 @@ C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\ConsoleClient\bin\Debug\MyClassLibra
 C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\ConsoleClient\bin\Debug\Ninject.xml
 C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\ConsoleClient\bin\Debug\NLog.xml
 C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\bin\Debug\NLog.config
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\bin\Debug\App_Data\ConsoleDB.sdf
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\bin\Debug\NLog.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\bin\Debug\NLog.xml
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\ConsoleClient\obj\Debug\ConsoleClient.pdb

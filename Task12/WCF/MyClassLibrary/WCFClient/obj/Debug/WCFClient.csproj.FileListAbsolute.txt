@@ -11,3 +11,13 @@ C:\Users\HP HomE\Desktop\WCF\MyClassLibrary\WCFClient\obj\Debug\WCFClient.csproj
 C:\Users\HP HomE\Desktop\gettte\Task12\WCF\MyClassLibrary\WCFClient\bin\Debug\WCFClient.exe.config
 C:\Users\HP HomE\Desktop\gettte\Task12\WCF\MyClassLibrary\WCFClient\obj\Debug\WCFClient.exe
 C:\Users\HP HomE\Desktop\gettte\Task12\WCF\MyClassLibrary\WCFClient\obj\Debug\WCFClient.pdb
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WCFClient\obj\Debug\WCFClient.pdb
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WCFClient\bin\Debug\MyClassLibrary.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WCFClient\bin\Debug\Ninject.dll
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WCFClient\bin\Debug\MyClassLibrary.pdb
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WCFClient\bin\Debug\Ninject.xml
+C:\Users\HP HomE\Desktop\ge\Task12\WCF\MyClassLibrary\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
