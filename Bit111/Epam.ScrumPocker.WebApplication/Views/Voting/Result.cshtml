@@ -1,0 +1,29 @@
+﻿@model Epam.ScrumPocker.Domain.VotingRoom
+@{
+    ViewBag.Title = "Result";
+}
+<body>
+    <div class="container">
+        <div class="row"><br/></div>
+        <div class="row">
+            <div class="col-xs-4">
+                <label for="user-story-name">Story Name:</label>
+                <p>@Model.UserStory.Name</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-4">
+                Story Description:
+                <label> @Model.UserStory.Description</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-4">
+                 @Html.Partial("_ResultsPartial", Model.Estimates)
+            </div>
+        </div>
+    </div>    
+</body>
+
+
+

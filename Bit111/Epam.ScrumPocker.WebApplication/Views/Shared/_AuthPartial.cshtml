@@ -1,0 +1,14 @@
+﻿@using Epam.ScrumPocker.Domain
+@{
+    User u = Session[SessionTags.User] as User;
+    if (u != null)
+    {
+         @Html.ActionLink(u.IdString, "Index", "Default")
+    }
+    else
+    {
+        //this string dont work with routing :c
+        //@Html.ActionLink("Login with Facebook", "Index", "Authenticate")
+        <a href="Authenticate/Index">Login with Facebook</a>
+    }
+}

@@ -1,0 +1,70 @@
+﻿@model Epam.ScrumPocker.Domain.UserStory
+@{
+    string[] options = new[] { "0", "1/2", "1", "2", "3", "5", "8", "13", "20", "40", "100", "?" };
+    ViewBag.Title = "Estimating";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>title</title>
+    </head>
+    <body>
+        <div class="container">
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label for="user-story-name">Story Name:</label>                        
+                        <p>@Model.Name</p>
+                    </div>
+                    </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        Story Description:
+                        <label> @Model.Description</label>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2 col-md-offset-1">
+                        <div class="panel panel-default">
+                            <p class="text-center" ><font size=" 36"><b class="userChoise">-</b></font></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                    @using (Html.BeginForm())
+                    {
+                        <div class="form-group">
+                            <label for="Model.VoteResult" class="control-label input-group">
+                                <span class="glyphicon-icon  coffee-cup">
+                                </span>
+                                Выберите свою оценку
+                            </label>
+                            <div class="btn-group aligment" data-toggle="buttons">
+                                @foreach (var option in options)
+                                {
+                                    <label class="btn btn-default">
+                                        <input type="radio" class="radio" name="Model.VoteResult" value="@option" required>@option
+                                    </label>
+                                }
+                            </div>
+                        </div>
+                        <div class="row form-group">
+                            <div class="col-md-12">
+                                <input type="submit" class=" btn btn-default btn-large" value="Submit" />
+                            </div>
+                        </div>
+                    }
+                    </div>
+                </div>
+            </div>
+    </body>
+
+<script>
+    $(".aligment .radio").change(function () {
+        var value = this.value;
+        $(".userChoise").text(value);
+    } );
+</script>
+</html>

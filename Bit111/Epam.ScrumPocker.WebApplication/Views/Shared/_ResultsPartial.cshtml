@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Epam.ScrumPocker.Domain.Estimate>
+<table class="table table-condensed">
+    <thead>
+        <tr>
+            <th>User</th>
+            <th>Value</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var est in Model)
+        {
+            <tr class="success">
+                <td>@est.VotedUser.IdString</td>
+                <td>@est.Value</td>
+            </tr>
+        }
+    </tbody>
+</table>

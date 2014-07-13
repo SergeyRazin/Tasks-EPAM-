@@ -1,0 +1,13 @@
+﻿@model Epam.ScrumPocker.Domain.VotingRoom
+@section JavaScript
+{
+    <script type="text/javascript" src="@Url.Content("/Scripts/moderator.page.script.js")"></script>
+}
+
+<h2>ModeratorPage</h2>
+
+<label> @Model.UserStory.Name </label>
+<label> @Model.UserStory.Description </label>
+<div id="partial">
+    @Html.Partial("_ResultsPartial", Model.Estimates)
+</div>
